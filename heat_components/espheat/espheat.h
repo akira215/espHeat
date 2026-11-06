@@ -5,6 +5,12 @@
 #include "esphome/components/sensor/sensor.h"
 #include "esphome/core/component.h"
 
+#include "driverHomebus.h"
+#include "driverDaikin.h"
+#include "driver/uart.h"
+#include "driver/gpio.h"
+
+
 
 namespace esphome {
 namespace espheat {
@@ -37,6 +43,8 @@ public:
     
 
 protected:
+    DriverHomebus* hbs_     = nullptr;
+    DriverDaikin* _daikin   = nullptr;
     
     SUB_SENSOR(indoor_temperature);
     SUB_SENSOR(outdoor_intake_temperature);

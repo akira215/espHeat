@@ -1,0 +1,3583 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>D:\10-Development\EspProject\zHeat\PCB\zHeat_PCB.kicad_sch</source>
+    <date>2026-06-15T00:24:12</date>
+    <tool>Eeschema 10.0.3</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>zHeat_PCB.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>1µF 16V</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>35V X5R</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="LCSC"> C94122</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet">35V X5R</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value=" C94122"/>
+      <property name="Sheetname" value="zHeat_PCB"/>
+      <property name="Sheetfile" value="zHeat_PCB.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>45c0d812-010f-4c90-b91e-432f27490b5f</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C2">
+      <value>10µF 25V</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>35V X5R</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="LCSC">C669099</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet">35V X5R</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C669099"/>
+      <property name="Sheetname" value="zHeat_PCB"/>
+      <property name="Sheetfile" value="zHeat_PCB.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b6ae9fd9-d747-40ce-8d60-d1568aaf6eb7</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C3">
+      <value>100nF 25V</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>35V X5R</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="LCSC">C519981</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet">35V X5R</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C519981"/>
+      <property name="Sheetname" value="zHeat_PCB"/>
+      <property name="Sheetfile" value="zHeat_PCB.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>62fde41b-9c91-4c07-b50c-3d34fd78ef3b</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C4">
+      <value>100nF 25V</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>35V X5R</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="LCSC">C519981</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet">35V X5R</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C519981"/>
+      <property name="Sheetname" value="zHeat_PCB"/>
+      <property name="Sheetfile" value="zHeat_PCB.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a95a5178-d085-449d-9b41-0d597962c842</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C5">
+      <value>10µF 25V</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>35V X5R</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="LCSC">C669099</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet">35V X5R</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C669099"/>
+      <property name="Sheetname" value="zHeat_PCB"/>
+      <property name="Sheetfile" value="zHeat_PCB.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e55a8142-d99d-4e51-b1f4-59c71ae93989</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C6">
+      <value>100nF 25V</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>35V X5R</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="LCSC">C519981</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet">35V X5R</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C519981"/>
+      <property name="Sheetname" value="zHeat_PCB"/>
+      <property name="Sheetfile" value="zHeat_PCB.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0d457652-a00e-4a6e-a028-9197af9ec507</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C7">
+      <value>100nF 25V</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>35V X5R</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="LCSC">C519981</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet">35V X5R</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C519981"/>
+      <property name="Sheetname" value="zHeat_PCB"/>
+      <property name="Sheetfile" value="zHeat_PCB.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>394359cd-131f-4364-9e0d-126f27c8e2b2</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C8">
+      <value>10µF 25V</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>35V X5R</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="LCSC">C669099</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet">35V X5R</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C669099"/>
+      <property name="Sheetname" value="zHeat_PCB"/>
+      <property name="Sheetfile" value="zHeat_PCB.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a94bb708-1006-45ac-8f80-105dbd018e36</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C9">
+      <value>22uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>6.3V X5R</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="LCSC">C45783</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet">6.3V X5R</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C45783"/>
+      <property name="Sheetname" value="zHeat_PCB"/>
+      <property name="Sheetfile" value="zHeat_PCB.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>284f569e-d687-41d6-8767-08b347b628ae</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C10">
+      <value>100nF 25V</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>35V X5R</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="LCSC">C519981</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet">35V X5R</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C519981"/>
+      <property name="Sheetname" value="zHeat_PCB"/>
+      <property name="Sheetfile" value="zHeat_PCB.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>67b5557f-8562-4271-8f9c-51e680c7bab0</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C11">
+      <value>100µF 25V</value>
+      <footprint>Capacitor_SMD:CP_Elec_6.3x7.7</footprint>
+      <datasheet>35V X5R</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="LCSC">C2836443</field>
+        <field name="Footprint">Capacitor_SMD:CP_Elec_6.3x7.7</field>
+        <field name="Datasheet">35V X5R</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C2836443"/>
+      <property name="Sheetname" value="zHeat_PCB"/>
+      <property name="Sheetfile" value="zHeat_PCB.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bb32072c-0717-403f-b5e1-7a6362374573</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C12">
+      <value>100nF 25V</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>35V X5R</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="LCSC">C519981</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet">35V X5R</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C519981"/>
+      <property name="Sheetname" value="zHeat_PCB"/>
+      <property name="Sheetfile" value="zHeat_PCB.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b5ecb173-aa75-4f47-bf4a-9477ccebb7bd</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C13">
+      <value>470pF 50v</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>35V X5R</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="LCSC">C1743</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet">35V X5R</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C1743"/>
+      <property name="Sheetname" value="zHeat_PCB"/>
+      <property name="Sheetfile" value="zHeat_PCB.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>166a45bd-6a7d-4043-a87a-6ddaffa0062a</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C14">
+      <value>100nF 25V</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>35V X5R</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="LCSC">C519981</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet">35V X5R</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C519981"/>
+      <property name="Sheetname" value="zHeat_PCB"/>
+      <property name="Sheetfile" value="zHeat_PCB.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9457cb73-c54c-4bd2-b21a-d60d2d3ffef5</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C15">
+      <value>10uF 50V</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>35V X5R</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="LCSC">C22367830</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet">35V X5R</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C22367830"/>
+      <property name="Sheetname" value="zHeat_PCB"/>
+      <property name="Sheetfile" value="zHeat_PCB.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1249cc1a-f401-48ab-8c77-6e1d2d3edd71</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C16">
+      <value>10µF 25V</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>35V X5R</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="LCSC">C669099</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet">35V X5R</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C669099"/>
+      <property name="Sheetname" value="zHeat_PCB"/>
+      <property name="Sheetfile" value="zHeat_PCB.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e8c0aaf6-fe3b-4c2b-99a8-bdfd1da4e515</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C17">
+      <value>100nF 25V</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>35V X5R</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="LCSC">C519981</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet">35V X5R</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C519981"/>
+      <property name="Sheetname" value="zHeat_PCB"/>
+      <property name="Sheetfile" value="zHeat_PCB.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>68dab180-272f-4e75-98b8-81f2794f3f6d</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C18">
+      <value>1µF 25V</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>35V X5R</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="LCSC">C91186</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet">35V X5R</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C91186"/>
+      <property name="Sheetname" value="zHeat_PCB"/>
+      <property name="Sheetfile" value="zHeat_PCB.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1f19ab60-260d-48c1-af56-579ca1cf4c13</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C19">
+      <value>100nF 25V</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>35V X5R</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="LCSC">C519981</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet">35V X5R</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C519981"/>
+      <property name="Sheetname" value="zHeat_PCB"/>
+      <property name="Sheetfile" value="zHeat_PCB.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5077ebb2-1516-41ca-976b-9e48eafdce32</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C20">
+      <value>10µF 25V</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>35V X5R</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="LCSC">C669099</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet">35V X5R</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C669099"/>
+      <property name="Sheetname" value="zHeat_PCB"/>
+      <property name="Sheetfile" value="zHeat_PCB.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>26a324bd-ebb7-4dc9-b138-a6e709881a83</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C21">
+      <value>1µF 25V</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>35V X5R</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="LCSC">C91186</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet">35V X5R</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C91186"/>
+      <property name="Sheetname" value="zHeat_PCB"/>
+      <property name="Sheetfile" value="zHeat_PCB.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a77ebbd8-5960-45a5-a188-8dfb81131e50</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C22">
+      <value>10µF 25V</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>35V X5R</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="LCSC">C669099</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet">35V X5R</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C669099"/>
+      <property name="Sheetname" value="zHeat_PCB"/>
+      <property name="Sheetfile" value="zHeat_PCB.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cf8f06e3-696a-41bd-815f-808e391f1f0d</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C23">
+      <value>10µF 25V</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>35V X5R</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="LCSC">C669099</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet">35V X5R</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C669099"/>
+      <property name="Sheetname" value="zHeat_PCB"/>
+      <property name="Sheetfile" value="zHeat_PCB.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5f506ad5-67c7-41e3-bafc-7133060f291f</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C24">
+      <value>100nF 25V</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="LCSC">C519981</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C519981"/>
+      <property name="Sheetname" value="zHeat_PCB"/>
+      <property name="Sheetfile" value="zHeat_PCB.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ec4c6950-3f17-4327-ba47-eff2c3804b8d</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="D1">
+      <value>BZA408B,115</value>
+      <footprint>zHeatFootprints:SOT95P275X110-6N</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/BZA408B.pdf</datasheet>
+      <description>BZA408B - Quadruple bidirectional ESD transient voltage suppressor</description>
+      <fields>
+        <field name="Height">1.1</field>
+        <field name="Mouser Part Number">771-BZA408B,125</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Nexperia/BZA408B125?qs=mSipnS5lFm9w4UlGdFtDOg%3D%3D</field>
+        <field name="Manufacturer_Name">Nexperia</field>
+        <field name="Manufacturer_Part_Number">BZA408B,125</field>
+        <field name="LCSC">C550053</field>
+        <field name="Footprint">zHeatFootprints:SOT95P275X110-6N</field>
+        <field name="Datasheet">https://assets.nexperia.com/documents/data-sheet/BZA408B.pdf</field>
+        <field name="Description">BZA408B - Quadruple bidirectional ESD transient voltage suppressor</field>
+      </fields>
+      <libsource lib="BZA408B_125" part="BZA408B,125" description="BZA408B - Quadruple bidirectional ESD transient voltage suppressor"/>
+      <property name="Height" value="1.1"/>
+      <property name="Mouser Part Number" value="771-BZA408B,125"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Nexperia/BZA408B125?qs=mSipnS5lFm9w4UlGdFtDOg%3D%3D"/>
+      <property name="Manufacturer_Name" value="Nexperia"/>
+      <property name="Manufacturer_Part_Number" value="BZA408B,125"/>
+      <property name="LCSC" value="C550053"/>
+      <property name="Sheetname" value="zHeat_PCB"/>
+      <property name="Sheetfile" value="zHeat_PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0fb15ceb-964a-453f-b376-2fed92b3488e</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+            <pin num="3"/>
+            <pin num="6"/>
+            <pin num="5"/>
+            <pin num="4"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="D2">
+      <value>Red 1.8V 2mA</value>
+      <footprint>Diode_SMD:D_0805_2012Metric</footprint>
+      <description>Light emitting diode</description>
+      <fields>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="LCSC">C5879380</field>
+        <field name="Footprint">Diode_SMD:D_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Light emitting diode</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC" value="C5879380"/>
+      <property name="Sheetname" value="zHeat_PCB"/>
+      <property name="Sheetfile" value="zHeat_PCB.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>907da8a3-b814-43e0-a8ce-fbd94ef02db8</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="D3">
+      <value>Green 1.8V 2mA</value>
+      <footprint>Diode_SMD:D_0805_2012Metric</footprint>
+      <description>Light emitting diode</description>
+      <fields>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="LCSC">C5569446</field>
+        <field name="Footprint">Diode_SMD:D_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Light emitting diode</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC" value="C5569446"/>
+      <property name="Sheetname" value="zHeat_PCB"/>
+      <property name="Sheetfile" value="zHeat_PCB.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>53c4c281-3019-4c0a-a7f6-0e97eed87548</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="D4">
+      <value>1N5819HW-7-F</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <description>Diode, filled shape</description>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="LCSC">C82544</field>
+        <field name="Footprint">Diode_SMD:D_SOD-123</field>
+        <field name="Datasheet"/>
+        <field name="Description">Diode, filled shape</field>
+      </fields>
+      <libsource lib="Device" part="D_Filled" description="Diode, filled shape"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC" value="C82544"/>
+      <property name="Sheetname" value="zHeat_PCB"/>
+      <property name="Sheetfile" value="zHeat_PCB.kicad_sch"/>
+      <property name="ki_keywords" value="diode"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ff80db0c-0f69-42a9-ad8e-033ba8970e69</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="D5">
+      <value>Yellow 1.8V 2mA</value>
+      <footprint>Diode_SMD:D_0805_2012Metric</footprint>
+      <description>Light emitting diode</description>
+      <fields>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="LCSC">C5879382</field>
+        <field name="Footprint">Diode_SMD:D_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Light emitting diode</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC" value="C5879382"/>
+      <property name="Sheetname" value="zHeat_PCB"/>
+      <property name="Sheetfile" value="zHeat_PCB.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>336bad35-99b6-40a8-8edd-31ed750db551</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="D6">
+      <value>Schottky 500mA</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>0.4 Vf Schottky 500 mA, 30 VR Vishay MBR0530</datasheet>
+      <description>Schottky diode, filled shape</description>
+      <fields>
+        <field name="LCSC">C52747980</field>
+        <field name="Footprint">Diode_SMD:D_SOD-123</field>
+        <field name="Datasheet">0.4 Vf Schottky 500 mA, 30 VR Vishay MBR0530</field>
+        <field name="Description">Schottky diode, filled shape</field>
+      </fields>
+      <libsource lib="Device" part="D_Schottky_Filled" description="Schottky diode, filled shape"/>
+      <property name="LCSC" value="C52747980"/>
+      <property name="Sheetname" value="zHeat_PCB"/>
+      <property name="Sheetfile" value="zHeat_PCB.kicad_sch"/>
+      <property name="ki_keywords" value="diode Schottky"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0cbd8ce7-9bdc-48a7-bb24-aafe2e816be3</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="D7">
+      <value>Yellow 1.8V 2mA</value>
+      <footprint>Diode_SMD:D_0805_2012Metric</footprint>
+      <description>Light emitting diode</description>
+      <fields>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="LCSC">C5879382</field>
+        <field name="Footprint">Diode_SMD:D_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Light emitting diode</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC" value="C5879382"/>
+      <property name="Sheetname" value="zHeat_PCB"/>
+      <property name="Sheetfile" value="zHeat_PCB.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>851ee280-cdc5-4348-a5c2-d1d7a7f1998d</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="D8">
+      <value>Green 1.8V 2mA</value>
+      <footprint>Diode_SMD:D_0805_2012Metric</footprint>
+      <description>Light emitting diode</description>
+      <fields>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="LCSC">C5569446</field>
+        <field name="Footprint">Diode_SMD:D_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Light emitting diode</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC" value="C5569446"/>
+      <property name="Sheetname" value="zHeat_PCB"/>
+      <property name="Sheetfile" value="zHeat_PCB.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7cae2a89-c436-447e-897e-36e54b57b27a</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="D9">
+      <value>SMBJ24A</value>
+      <footprint>Diode_SMD:D_SMB</footprint>
+      <datasheet>https://www.onsemi.com/pdf/datasheet/esd5z2.5t1-d.pdf</datasheet>
+      <description>ESD Protection Diode, SOD-523</description>
+      <fields>
+        <field name="LCSC">C224017</field>
+        <field name="Footprint">Diode_SMD:D_SMB</field>
+        <field name="Datasheet">https://www.onsemi.com/pdf/datasheet/esd5z2.5t1-d.pdf</field>
+        <field name="Description">ESD Protection Diode, SOD-523</field>
+      </fields>
+      <libsource lib="Diode" part="ESD5Zxx" description="ESD Protection Diode, SOD-523"/>
+      <property name="LCSC" value="C224017"/>
+      <property name="Sheetname" value="zHeat_PCB"/>
+      <property name="Sheetfile" value="zHeat_PCB.kicad_sch"/>
+      <property name="ki_keywords" value="esd tvs unidirectional diode"/>
+      <property name="ki_fp_filters" value="D?SOD?523*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4eaf6ab3-c6be-4cc6-99e0-8cb7e98544fc</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="D10">
+      <value>P6SMB6.8A</value>
+      <footprint>Diode_SMD:D_SMB</footprint>
+      <datasheet>https://www.st.com/resource/en/datasheet/sm6t.pdf</datasheet>
+      <description>600W unidirectional Transil Transient Voltage Suppressor, 24Vrwm, DO-214AA</description>
+      <fields>
+        <field name="LCSC">C2758562</field>
+        <field name="Footprint">Diode_SMD:D_SMB</field>
+        <field name="Datasheet">https://www.st.com/resource/en/datasheet/sm6t.pdf</field>
+        <field name="Description">600W unidirectional Transil Transient Voltage Suppressor, 24Vrwm, DO-214AA</field>
+      </fields>
+      <libsource lib="Diode" part="SM6T24A" description="600W unidirectional Transil Transient Voltage Suppressor, 24Vrwm, DO-214AA"/>
+      <property name="LCSC" value="C2758562"/>
+      <property name="Sheetname" value="zHeat_PCB"/>
+      <property name="Sheetfile" value="zHeat_PCB.kicad_sch"/>
+      <property name="ki_keywords" value="diode TVS voltage suppressor"/>
+      <property name="ki_fp_filters" value="D*SMB*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b3b88b1d-56e3-431e-808e-5a7772e47787</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="D11">
+      <value>SMAJ15CA</value>
+      <footprint>Diode_SMD:D_SMA</footprint>
+      <datasheet>https://www.littelfuse.com/media?resourcetype=datasheets&amp;itemid=75e32973-b177-4ee3-a0ff-cedaf1abdb93&amp;filename=smaj-datasheet</datasheet>
+      <description>400W bidirectional Transient Voltage Suppressor, 15.0Vr, SMA(DO-214AC)</description>
+      <fields>
+        <field name="LCSC">C110044</field>
+        <field name="Footprint">Diode_SMD:D_SMA</field>
+        <field name="Datasheet">https://www.littelfuse.com/media?resourcetype=datasheets&amp;itemid=75e32973-b177-4ee3-a0ff-cedaf1abdb93&amp;filename=smaj-datasheet</field>
+        <field name="Description">400W bidirectional Transient Voltage Suppressor, 15.0Vr, SMA(DO-214AC)</field>
+      </fields>
+      <libsource lib="Diode" part="SMAJ15CA" description="400W bidirectional Transient Voltage Suppressor, 15.0Vr, SMA(DO-214AC)"/>
+      <property name="LCSC" value="C110044"/>
+      <property name="Sheetname" value="zHeat_PCB"/>
+      <property name="Sheetfile" value="zHeat_PCB.kicad_sch"/>
+      <property name="ki_keywords" value="bidirectional diode TVS voltage suppressor"/>
+      <property name="ki_fp_filters" value="D*SMA*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0306ebe9-1fdd-47c7-b9be-04649005dbef</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="D12">
+      <value>P6SMB6.8A</value>
+      <footprint>Diode_SMD:D_SMB</footprint>
+      <datasheet>https://www.st.com/resource/en/datasheet/sm6t.pdf</datasheet>
+      <description>600W unidirectional Transil Transient Voltage Suppressor, 24Vrwm, DO-214AA</description>
+      <fields>
+        <field name="LCSC">C2758562</field>
+        <field name="Footprint">Diode_SMD:D_SMB</field>
+        <field name="Datasheet">https://www.st.com/resource/en/datasheet/sm6t.pdf</field>
+        <field name="Description">600W unidirectional Transil Transient Voltage Suppressor, 24Vrwm, DO-214AA</field>
+      </fields>
+      <libsource lib="Diode" part="SM6T24A" description="600W unidirectional Transil Transient Voltage Suppressor, 24Vrwm, DO-214AA"/>
+      <property name="LCSC" value="C2758562"/>
+      <property name="Sheetname" value="zHeat_PCB"/>
+      <property name="Sheetfile" value="zHeat_PCB.kicad_sch"/>
+      <property name="ki_keywords" value="diode TVS voltage suppressor"/>
+      <property name="ki_fp_filters" value="D*SMB*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3a6e1b5a-8436-4786-83e1-0ba6210afe44</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="IC1">
+      <value>MAX14932AASE+</value>
+      <footprint>zHeatFootprints:SOIC127P600X175-16N</footprint>
+      <datasheet>https://datasheets.maximintegrated.com/en/ds/MAX14130-MAX14932.pdf</datasheet>
+      <description>MAXIM INTEGRATED PRODUCTS - MAX14932AASE+ - DIGI ISOLATOR, 1MBPS, 2.75KV, NSOIC-16</description>
+      <fields>
+        <field name="Height">1.75</field>
+        <field name="Mouser Part Number">700-MAX14932AASE+</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Analog-Devices-Maxim-Integrated/MAX14932AASE%2b?qs=vS28%252BL64B%2FqCGKd3XPjtmw%3D%3D</field>
+        <field name="Manufacturer_Name">Analog Devices</field>
+        <field name="Manufacturer_Part_Number">MAX14932AASE+</field>
+        <field name="LCSC">C7451518</field>
+        <field name="Footprint">zHeatFootprints:SOIC127P600X175-16N</field>
+        <field name="Datasheet">https://datasheets.maximintegrated.com/en/ds/MAX14130-MAX14932.pdf</field>
+        <field name="Description">MAXIM INTEGRATED PRODUCTS - MAX14932AASE+ - DIGI ISOLATOR, 1MBPS, 2.75KV, NSOIC-16</field>
+      </fields>
+      <libsource lib="zHeat" part="MAX14932AASE+" description="MAXIM INTEGRATED PRODUCTS - MAX14932AASE+ - DIGI ISOLATOR, 1MBPS, 2.75KV, NSOIC-16"/>
+      <property name="Height" value="1.75"/>
+      <property name="Mouser Part Number" value="700-MAX14932AASE+"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Analog-Devices-Maxim-Integrated/MAX14932AASE%2b?qs=vS28%252BL64B%2FqCGKd3XPjtmw%3D%3D"/>
+      <property name="Manufacturer_Name" value="Analog Devices"/>
+      <property name="Manufacturer_Part_Number" value="MAX14932AASE+"/>
+      <property name="LCSC" value="C7451518"/>
+      <property name="Sheetname" value="zHeat_PCB"/>
+      <property name="Sheetfile" value="zHeat_PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3c6fca4e-a2cd-488d-9b41-0904a73dad3a</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+            <pin num="3"/>
+            <pin num="4"/>
+            <pin num="5"/>
+            <pin num="6"/>
+            <pin num="7"/>
+            <pin num="8"/>
+            <pin num="16"/>
+            <pin num="15"/>
+            <pin num="14"/>
+            <pin num="13"/>
+            <pin num="12"/>
+            <pin num="11"/>
+            <pin num="10"/>
+            <pin num="9"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="IC2">
+      <value>RMB6S</value>
+      <footprint>Package_TO_SOT_SMD:TO-269AA</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/MB8S-D.PDF</datasheet>
+      <description>Surge Overload Rating: 35 A Peak; Low-Leakage; Ideal for Printed Circuit Board; UL Certified: UL #E258596</description>
+      <fields>
+        <field name="Height">2.9</field>
+        <field name="Mouser Part Number">512-MB1S</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/onsemi-Fairchild/MB1S?qs=DPwKKv7J1fwyOHno5d2nnw%3D%3D</field>
+        <field name="Manufacturer_Name">onsemi</field>
+        <field name="Manufacturer_Part_Number">MB1S</field>
+        <field name="LCSC">C3589251</field>
+        <field name="Footprint">Package_TO_SOT_SMD:TO-269AA</field>
+        <field name="Datasheet">https://www.onsemi.com/pub/Collateral/MB8S-D.PDF</field>
+        <field name="Description">Surge Overload Rating: 35 A Peak; Low-Leakage; Ideal for Printed Circuit Board; UL Certified: UL #E258596</field>
+      </fields>
+      <libsource lib="zHeat" part="MB1S" description="Surge Overload Rating: 35 A Peak; Low-Leakage; Ideal for Printed Circuit Board; UL Certified: UL #E258596"/>
+      <property name="Height" value="2.9"/>
+      <property name="Mouser Part Number" value="512-MB1S"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/onsemi-Fairchild/MB1S?qs=DPwKKv7J1fwyOHno5d2nnw%3D%3D"/>
+      <property name="Manufacturer_Name" value="onsemi"/>
+      <property name="Manufacturer_Part_Number" value="MB1S"/>
+      <property name="LCSC" value="C3589251"/>
+      <property name="Sheetname" value="zHeat_PCB"/>
+      <property name="Sheetfile" value="zHeat_PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1979aef4-ffa5-4de9-b9fb-da11b9a8dcc9</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+            <pin num="4"/>
+            <pin num="3"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="IC3">
+      <value>RMB6S</value>
+      <footprint>Package_TO_SOT_SMD:TO-269AA</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/MB8S-D.PDF</datasheet>
+      <description>Surge Overload Rating: 35 A Peak; Low-Leakage; Ideal for Printed Circuit Board; UL Certified: UL #E258596</description>
+      <fields>
+        <field name="Height">2.9</field>
+        <field name="Mouser Part Number">512-MB1S</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/onsemi-Fairchild/MB1S?qs=DPwKKv7J1fwyOHno5d2nnw%3D%3D</field>
+        <field name="Manufacturer_Name">onsemi</field>
+        <field name="Manufacturer_Part_Number">MB1S</field>
+        <field name="LCSC">C3589251</field>
+        <field name="Footprint">Package_TO_SOT_SMD:TO-269AA</field>
+        <field name="Datasheet">https://www.onsemi.com/pub/Collateral/MB8S-D.PDF</field>
+        <field name="Description">Surge Overload Rating: 35 A Peak; Low-Leakage; Ideal for Printed Circuit Board; UL Certified: UL #E258596</field>
+      </fields>
+      <libsource lib="zHeat" part="MB1S" description="Surge Overload Rating: 35 A Peak; Low-Leakage; Ideal for Printed Circuit Board; UL Certified: UL #E258596"/>
+      <property name="Height" value="2.9"/>
+      <property name="Mouser Part Number" value="512-MB1S"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/onsemi-Fairchild/MB1S?qs=DPwKKv7J1fwyOHno5d2nnw%3D%3D"/>
+      <property name="Manufacturer_Name" value="onsemi"/>
+      <property name="Manufacturer_Part_Number" value="MB1S"/>
+      <property name="LCSC" value="C3589251"/>
+      <property name="Sheetname" value="zHeat_PCB"/>
+      <property name="Sheetfile" value="zHeat_PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b3843b56-de24-49f6-b575-5f1c0c5b63c2</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+            <pin num="4"/>
+            <pin num="3"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="J1">
+      <value>USB4110GFA</value>
+      <footprint>zHeatFootprints:GCT_USB4110GFA</footprint>
+      <datasheet>https://www.mouser.com/catalog/specsheets/GCT_USB4110%20Product%20Drawing%20-%2020k%20cycles.pdf?_gl=1*14dx9mj*_gcl_aw*R0NMLjE3NTk0NzQxNjkuQ2p3S0NBand4ZmpHQmhBVUVpd0FLV1B3RHJGb2IybE9rOW0xRE5ESUlpT2Z3TzJ0TDA2VVJJdXo3RHFBUjBiTDhKTkJXUW1STU5JR0NSb0MwelFRQXZEX0J3RQ..*_gcl_au*MTg4NTk1MTI0MC4xNzU1Nzg2NTE3LjY1MzI0NTYyNi4xNzU5NDc0MTYxLjE3NTk0NzY4NDU.*_ga*NTY5MzcyNDI1LjE3NTU3ODY1MTk.*_ga_15W4STQT4T*czE3NTk0NzQxNDckbzE5JGcxJHQxNzU5NDc2ODkyJGo4JGwwJGgw</datasheet>
+      <description>USB-C (USB TYPE-C) USB 2.0 Receptacle Connector 24 (16+8 Dummy) Position Surface Mount, Right Angle</description>
+      <fields>
+        <field name="MF">Global Connector Technology</field>
+        <field name="Description_1">USB-C (USB TYPE-C) USB 2.0 Receptacle Connector 24 (16+8 Dummy) Position Surface Mount, Right Angle</field>
+        <field name="Package">None</field>
+        <field name="Price">None</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/USB4110GFA/Global+Connector+Technology/view-part/?ref=snap</field>
+        <field name="MP">USB4110GFA</field>
+        <field name="Purchase-URL">https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=7348857&amp;manufacturer=Global Connector Technology&amp;part_name=USB4110GFA&amp;search_term=usb4110-gf-a</field>
+        <field name="Availability">In Stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/USB4110GFA/Global+Connector+Technology/view-part/?ref=eda</field>
+        <field name="LCSC">C5143397</field>
+        <field name="Footprint">zHeatFootprints:GCT_USB4110GFA</field>
+        <field name="Datasheet">https://www.mouser.com/catalog/specsheets/GCT_USB4110%20Product%20Drawing%20-%2020k%20cycles.pdf?_gl=1*14dx9mj*_gcl_aw*R0NMLjE3NTk0NzQxNjkuQ2p3S0NBand4ZmpHQmhBVUVpd0FLV1B3RHJGb2IybE9rOW0xRE5ESUlpT2Z3TzJ0TDA2VVJJdXo3RHFBUjBiTDhKTkJXUW1STU5JR0NSb0MwelFRQXZEX0J3RQ..*_gcl_au*MTg4NTk1MTI0MC4xNzU1Nzg2NTE3LjY1MzI0NTYyNi4xNzU5NDc0MTYxLjE3NTk0NzY4NDU.*_ga*NTY5MzcyNDI1LjE3NTU3ODY1MTk.*_ga_15W4STQT4T*czE3NTk0NzQxNDckbzE5JGcxJHQxNzU5NDc2ODkyJGo4JGwwJGgw</field>
+        <field name="Description">USB-C (USB TYPE-C) USB 2.0 Receptacle Connector 24 (16+8 Dummy) Position Surface Mount, Right Angle</field>
+      </fields>
+      <libsource lib="USB 4110GFA" part="USB4110GFA" description="USB-C (USB TYPE-C) USB 2.0 Receptacle Connector 24 (16+8 Dummy) Position Surface Mount, Right Angle"/>
+      <property name="MF" value="Global Connector Technology"/>
+      <property name="Description_1" value="USB-C (USB TYPE-C) USB 2.0 Receptacle Connector 24 (16+8 Dummy) Position Surface Mount, Right Angle"/>
+      <property name="Package" value="None"/>
+      <property name="Price" value="None"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/USB4110GFA/Global+Connector+Technology/view-part/?ref=snap"/>
+      <property name="MP" value="USB4110GFA"/>
+      <property name="Purchase-URL" value="https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=7348857&amp;manufacturer=Global Connector Technology&amp;part_name=USB4110GFA&amp;search_term=usb4110-gf-a"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/USB4110GFA/Global+Connector+Technology/view-part/?ref=eda"/>
+      <property name="LCSC" value="C5143397"/>
+      <property name="Sheetname" value="zHeat_PCB"/>
+      <property name="Sheetfile" value="zHeat_PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1be4be87-1664-4e83-92e5-2c8ff573da1f</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="A5"/>
+            <pin num="A6"/>
+            <pin num="A7"/>
+            <pin num="A8"/>
+            <pin num="A4/B9"/>
+            <pin num="B4/A9"/>
+            <pin num="B5"/>
+            <pin num="B6"/>
+            <pin num="B7"/>
+            <pin num="B8"/>
+            <pin num="A1/B12"/>
+            <pin num="B1/A12"/>
+            <pin num="S1"/>
+            <pin num="S2"/>
+            <pin num="S3"/>
+            <pin num="S4"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="J2">
+      <value>WAGO 250-202</value>
+      <footprint>zHeatFootprints:CONN2_250-202_WAG</footprint>
+      <datasheet>https://www.phoenixcontact.com/en-us/products/printed-circuit-board-terminal-ptsa-15-2-35-z-1985195?type=pdf</datasheet>
+      <description>PTSA 1,5/ 2-3,5-Z - Printed circuit board terminal, nominal current: 8 A, rated voltage (III/2): 400 V, nominal cross section: 1.5 mm&lt;sup&gt;2&lt;/sup&gt;, number of potentials: 2, number of rows: 1, number of positions per row: 2, product range: PTSA 1,5, pitch: 3.5 mm, connection method: Push-in spring connection, mounting: Wave soldering, conductor/PCB connection direction: 45 , color: green, Pin layout: Zigzag pinning W, Solder pin [P]: 3.5 mm, number of solder pins per potential: 1, type of packaging: packed i</description>
+      <fields>
+        <field name="Height">13</field>
+        <field name="Mouser Part Number">651-1985195</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1985195?qs=nq%2FEIFkB2fEpUV%252BqAaKYzQ%3D%3D</field>
+        <field name="Manufacturer_Name">Phoenix Contact</field>
+        <field name="Manufacturer_Part_Number">1985195</field>
+        <field name="LCSC">C276506</field>
+        <field name="Footprint">zHeatFootprints:CONN2_250-202_WAG</field>
+        <field name="Datasheet">https://www.phoenixcontact.com/en-us/products/printed-circuit-board-terminal-ptsa-15-2-35-z-1985195?type=pdf</field>
+        <field name="Description">PTSA 1,5/ 2-3,5-Z - Printed circuit board terminal, nominal current: 8 A, rated voltage (III/2): 400 V, nominal cross section: 1.5 mm&lt;sup&gt;2&lt;/sup&gt;, number of potentials: 2, number of rows: 1, number of positions per row: 2, product range: PTSA 1,5, pitch: 3.5 mm, connection method: Push-in spring connection, mounting: Wave soldering, conductor/PCB connection direction: 45 , color: green, Pin layout: Zigzag pinning W, Solder pin [P]: 3.5 mm, number of solder pins per potential: 1, type of packaging: packed i</field>
+      </fields>
+      <libsource lib="zHeat" part="1985195" description="PTSA 1,5/ 2-3,5-Z - Printed circuit board terminal, nominal current: 8 A, rated voltage (III/2): 400 V, nominal cross section: 1.5 mm&lt;sup&gt;2&lt;/sup&gt;, number of potentials: 2, number of rows: 1, number of positions per row: 2, product range: PTSA 1,5, pitch: 3.5 mm, connection method: Push-in spring connection, mounting: Wave soldering, conductor/PCB connection direction: 45 , color: green, Pin layout: Zigzag pinning W, Solder pin [P]: 3.5 mm, number of solder pins per potential: 1, type of packaging: packed i"/>
+      <property name="Height" value="13"/>
+      <property name="Mouser Part Number" value="651-1985195"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1985195?qs=nq%2FEIFkB2fEpUV%252BqAaKYzQ%3D%3D"/>
+      <property name="Manufacturer_Name" value="Phoenix Contact"/>
+      <property name="Manufacturer_Part_Number" value="1985195"/>
+      <property name="LCSC" value="C276506"/>
+      <property name="Sheetname" value="zHeat_PCB"/>
+      <property name="Sheetfile" value="zHeat_PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dc5039e0-ab08-4355-8b77-76275ac9cc59</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="2"/>
+            <pin num="1"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="J3">
+      <value>WAGO 250-202</value>
+      <footprint>zHeatFootprints:CONN2_250-202_WAG</footprint>
+      <datasheet>https://www.phoenixcontact.com/en-us/products/printed-circuit-board-terminal-ptsa-15-2-35-z-1985195?type=pdf</datasheet>
+      <description>PTSA 1,5/ 2-3,5-Z - Printed circuit board terminal, nominal current: 8 A, rated voltage (III/2): 400 V, nominal cross section: 1.5 mm&lt;sup&gt;2&lt;/sup&gt;, number of potentials: 2, number of rows: 1, number of positions per row: 2, product range: PTSA 1,5, pitch: 3.5 mm, connection method: Push-in spring connection, mounting: Wave soldering, conductor/PCB connection direction: 45 , color: green, Pin layout: Zigzag pinning W, Solder pin [P]: 3.5 mm, number of solder pins per potential: 1, type of packaging: packed i</description>
+      <fields>
+        <field name="Height">13</field>
+        <field name="Mouser Part Number">651-1985195</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1985195?qs=nq%2FEIFkB2fEpUV%252BqAaKYzQ%3D%3D</field>
+        <field name="Manufacturer_Name">Phoenix Contact</field>
+        <field name="Manufacturer_Part_Number">1985195</field>
+        <field name="LCSC">C276506</field>
+        <field name="Footprint">zHeatFootprints:CONN2_250-202_WAG</field>
+        <field name="Datasheet">https://www.phoenixcontact.com/en-us/products/printed-circuit-board-terminal-ptsa-15-2-35-z-1985195?type=pdf</field>
+        <field name="Description">PTSA 1,5/ 2-3,5-Z - Printed circuit board terminal, nominal current: 8 A, rated voltage (III/2): 400 V, nominal cross section: 1.5 mm&lt;sup&gt;2&lt;/sup&gt;, number of potentials: 2, number of rows: 1, number of positions per row: 2, product range: PTSA 1,5, pitch: 3.5 mm, connection method: Push-in spring connection, mounting: Wave soldering, conductor/PCB connection direction: 45 , color: green, Pin layout: Zigzag pinning W, Solder pin [P]: 3.5 mm, number of solder pins per potential: 1, type of packaging: packed i</field>
+      </fields>
+      <libsource lib="zHeat" part="1985195" description="PTSA 1,5/ 2-3,5-Z - Printed circuit board terminal, nominal current: 8 A, rated voltage (III/2): 400 V, nominal cross section: 1.5 mm&lt;sup&gt;2&lt;/sup&gt;, number of potentials: 2, number of rows: 1, number of positions per row: 2, product range: PTSA 1,5, pitch: 3.5 mm, connection method: Push-in spring connection, mounting: Wave soldering, conductor/PCB connection direction: 45 , color: green, Pin layout: Zigzag pinning W, Solder pin [P]: 3.5 mm, number of solder pins per potential: 1, type of packaging: packed i"/>
+      <property name="Height" value="13"/>
+      <property name="Mouser Part Number" value="651-1985195"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1985195?qs=nq%2FEIFkB2fEpUV%252BqAaKYzQ%3D%3D"/>
+      <property name="Manufacturer_Name" value="Phoenix Contact"/>
+      <property name="Manufacturer_Part_Number" value="1985195"/>
+      <property name="LCSC" value="C276506"/>
+      <property name="Sheetname" value="zHeat_PCB"/>
+      <property name="Sheetfile" value="zHeat_PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a5931472-58ce-4c6d-8164-af96da5d95af</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="2"/>
+            <pin num="1"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="J4">
+      <value>WAGO 250-202</value>
+      <footprint>zHeatFootprints:CONN2_250-202_WAG</footprint>
+      <datasheet>https://www.phoenixcontact.com/en-us/products/printed-circuit-board-terminal-ptsa-15-2-35-z-1985195?type=pdf</datasheet>
+      <description>PTSA 1,5/ 2-3,5-Z - Printed circuit board terminal, nominal current: 8 A, rated voltage (III/2): 400 V, nominal cross section: 1.5 mm&lt;sup&gt;2&lt;/sup&gt;, number of potentials: 2, number of rows: 1, number of positions per row: 2, product range: PTSA 1,5, pitch: 3.5 mm, connection method: Push-in spring connection, mounting: Wave soldering, conductor/PCB connection direction: 45 , color: green, Pin layout: Zigzag pinning W, Solder pin [P]: 3.5 mm, number of solder pins per potential: 1, type of packaging: packed i</description>
+      <fields>
+        <field name="Height">13</field>
+        <field name="Mouser Part Number">651-1985195</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1985195?qs=nq%2FEIFkB2fEpUV%252BqAaKYzQ%3D%3D</field>
+        <field name="Manufacturer_Name">Phoenix Contact</field>
+        <field name="Manufacturer_Part_Number">1985195</field>
+        <field name="LCSC">C276506</field>
+        <field name="Footprint">zHeatFootprints:CONN2_250-202_WAG</field>
+        <field name="Datasheet">https://www.phoenixcontact.com/en-us/products/printed-circuit-board-terminal-ptsa-15-2-35-z-1985195?type=pdf</field>
+        <field name="Description">PTSA 1,5/ 2-3,5-Z - Printed circuit board terminal, nominal current: 8 A, rated voltage (III/2): 400 V, nominal cross section: 1.5 mm&lt;sup&gt;2&lt;/sup&gt;, number of potentials: 2, number of rows: 1, number of positions per row: 2, product range: PTSA 1,5, pitch: 3.5 mm, connection method: Push-in spring connection, mounting: Wave soldering, conductor/PCB connection direction: 45 , color: green, Pin layout: Zigzag pinning W, Solder pin [P]: 3.5 mm, number of solder pins per potential: 1, type of packaging: packed i</field>
+      </fields>
+      <libsource lib="zHeat" part="1985195" description="PTSA 1,5/ 2-3,5-Z - Printed circuit board terminal, nominal current: 8 A, rated voltage (III/2): 400 V, nominal cross section: 1.5 mm&lt;sup&gt;2&lt;/sup&gt;, number of potentials: 2, number of rows: 1, number of positions per row: 2, product range: PTSA 1,5, pitch: 3.5 mm, connection method: Push-in spring connection, mounting: Wave soldering, conductor/PCB connection direction: 45 , color: green, Pin layout: Zigzag pinning W, Solder pin [P]: 3.5 mm, number of solder pins per potential: 1, type of packaging: packed i"/>
+      <property name="Height" value="13"/>
+      <property name="Mouser Part Number" value="651-1985195"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1985195?qs=nq%2FEIFkB2fEpUV%252BqAaKYzQ%3D%3D"/>
+      <property name="Manufacturer_Name" value="Phoenix Contact"/>
+      <property name="Manufacturer_Part_Number" value="1985195"/>
+      <property name="LCSC" value="C276506"/>
+      <property name="Sheetname" value="zHeat_PCB"/>
+      <property name="Sheetfile" value="zHeat_PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6ad5f10d-a5b7-4417-92fd-a9641cf12a68</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="2"/>
+            <pin num="1"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="L1">
+      <value>33uH</value>
+      <footprint>Inductor_SMD:L_10.4x10.4_H4.8</footprint>
+      <datasheet>500mA</datasheet>
+      <description>Inductor</description>
+      <fields>
+        <field name="LCSC">C22432991</field>
+        <field name="Footprint">Inductor_SMD:L_10.4x10.4_H4.8</field>
+        <field name="Datasheet">500mA</field>
+        <field name="Description">Inductor</field>
+      </fields>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="LCSC" value="C22432991"/>
+      <property name="Sheetname" value="zHeat_PCB"/>
+      <property name="Sheetfile" value="zHeat_PCB.kicad_sch"/>
+      <property name="ki_keywords" value="inductor choke coil reactor magnetic"/>
+      <property name="ki_fp_filters" value="Choke_* *Coil* Inductor_* L_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d425cfb0-54e7-4070-9d86-666e1900bf53</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="Q1">
+      <value>BC847BS</value>
+      <footprint>Package_TO_SOT_SMD:SOT-363_SC-70-6</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/BC847BS.pdf</datasheet>
+      <description>100mA IC, 45V Vce, Dual NPN/NPN Transistors, SOT-363</description>
+      <fields>
+        <field name="LCSC">C8653</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-363_SC-70-6</field>
+        <field name="Datasheet">https://assets.nexperia.com/documents/data-sheet/BC847BS.pdf</field>
+        <field name="Description">100mA IC, 45V Vce, Dual NPN/NPN Transistors, SOT-363</field>
+      </fields>
+      <libsource lib="Transistor_BJT" part="BC847BS" description="100mA IC, 45V Vce, Dual NPN/NPN Transistors, SOT-363"/>
+      <property name="LCSC" value="C8653"/>
+      <property name="Sheetname" value="zHeat_PCB"/>
+      <property name="Sheetfile" value="zHeat_PCB.kicad_sch"/>
+      <property name="ki_keywords" value="NPN/NPN Transistor"/>
+      <property name="ki_fp_filters" value="SOT?363*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8b7cf7b0-b765-4034-bbf2-6c99053c8f96 054855b7-6456-46e6-bbbb-d8cec69cc6b7</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="2"/>
+            <pin num="6"/>
+            <pin num="1"/>
+          </pins>
+        </unit>
+        <unit name="B">
+          <pins>
+            <pin num="5"/>
+            <pin num="3"/>
+            <pin num="4"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R1">
+      <value>5.1k 1%</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="LCSC">C27834</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C27834"/>
+      <property name="Sheetname" value="zHeat_PCB"/>
+      <property name="Sheetfile" value="zHeat_PCB.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>81ca3d17-76bf-446c-9357-2d812bec95a4</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R2">
+      <value>10k 1%</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="LCSC">C17414</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C17414"/>
+      <property name="Sheetname" value="zHeat_PCB"/>
+      <property name="Sheetfile" value="zHeat_PCB.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3a4a885b-1144-44d4-9d85-51f18936ea13</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R3">
+      <value>5.1k 1%</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="LCSC">C27834</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C27834"/>
+      <property name="Sheetname" value="zHeat_PCB"/>
+      <property name="Sheetfile" value="zHeat_PCB.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>21a7198d-14bc-419d-83d7-1a6b7f70c734</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R4">
+      <value>750R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="LCSC">C17818</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C17818"/>
+      <property name="Sheetname" value="zHeat_PCB"/>
+      <property name="Sheetfile" value="zHeat_PCB.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d534755b-5708-47ea-ae3c-e920dd1f628a</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R5">
+      <value>330R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="LCSC">C17630</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C17630"/>
+      <property name="Sheetname" value="zHeat_PCB"/>
+      <property name="Sheetfile" value="zHeat_PCB.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>338517e8-f22b-4b4d-8340-6507a18b5247</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R6">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="LCSC">C17414</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C17414"/>
+      <property name="Sheetname" value="zHeat_PCB"/>
+      <property name="Sheetfile" value="zHeat_PCB.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>87c965d8-a48d-447f-a2f1-eb376366d885</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R7">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="LCSC">C17414</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C17414"/>
+      <property name="Sheetname" value="zHeat_PCB"/>
+      <property name="Sheetfile" value="zHeat_PCB.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8cef82c4-7b51-4d68-a6f0-ac648854bed6</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R8">
+      <value>10k 1%</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="LCSC">C17414</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C17414"/>
+      <property name="Sheetname" value="zHeat_PCB"/>
+      <property name="Sheetfile" value="zHeat_PCB.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4284f492-72f8-477d-9707-800a9c7ecf88</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R9">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="LCSC">C17414</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C17414"/>
+      <property name="Sheetname" value="zHeat_PCB"/>
+      <property name="Sheetfile" value="zHeat_PCB.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4bbe2f24-af7b-44e2-8279-f2fb571ada60</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R10">
+      <value>10k 1%</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="LCSC">C17414</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C17414"/>
+      <property name="Sheetname" value="zHeat_PCB"/>
+      <property name="Sheetfile" value="zHeat_PCB.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f15e81a8-7ce3-4cea-8ee5-a3ec97a115af</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R11">
+      <value>750R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="LCSC">C17818</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C17818"/>
+      <property name="Sheetname" value="zHeat_PCB"/>
+      <property name="Sheetfile" value="zHeat_PCB.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9fe41ded-fd9f-4dc5-bfba-008568d0762b</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R12">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="LCSC">C17414</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C17414"/>
+      <property name="Sheetname" value="zHeat_PCB"/>
+      <property name="Sheetfile" value="zHeat_PCB.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>aeca11e5-ea7e-4b00-b987-e59ebbd72d8e</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R13">
+      <value>62k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="LCSC">C17783</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C17783"/>
+      <property name="Sheetname" value="zHeat_PCB"/>
+      <property name="Sheetfile" value="zHeat_PCB.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>02f7184a-9257-49d5-9388-2824b8f21c77</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R14">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="LCSC">C100049</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C100049"/>
+      <property name="Sheetname" value="zHeat_PCB"/>
+      <property name="Sheetfile" value="zHeat_PCB.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9342c6fd-9683-463f-9514-9be68a741b89</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R15">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="LCSC">C17414</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C17414"/>
+      <property name="Sheetname" value="zHeat_PCB"/>
+      <property name="Sheetfile" value="zHeat_PCB.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f6e2e53f-f9cf-43ae-baf3-aa17ebe29411</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R16">
+      <value>0R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="LCSC">C174076</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C174076"/>
+      <property name="Sheetname" value="zHeat_PCB"/>
+      <property name="Sheetfile" value="zHeat_PCB.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7597ca31-8581-4263-9976-c1e2fee3c8c2</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R17">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="LCSC">C17414</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C17414"/>
+      <property name="Sheetname" value="zHeat_PCB"/>
+      <property name="Sheetfile" value="zHeat_PCB.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>250cc2ce-babb-4cfc-b29b-4caca55bda67</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R18">
+      <value>27k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="LCSC">C114533</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C114533"/>
+      <property name="Sheetname" value="zHeat_PCB"/>
+      <property name="Sheetfile" value="zHeat_PCB.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>88b64119-bb2b-4048-9672-f8328f4267d5</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R19">
+      <value>4.3k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="LCSC">C137518</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C137518"/>
+      <property name="Sheetname" value="zHeat_PCB"/>
+      <property name="Sheetfile" value="zHeat_PCB.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>88e31d5c-ceb2-4194-9cc6-fda22435aa75</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R20">
+      <value>20k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="LCSC">C4328</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C4328"/>
+      <property name="Sheetname" value="zHeat_PCB"/>
+      <property name="Sheetfile" value="zHeat_PCB.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>92993b30-9b10-4c48-bfc3-ca77f1ebad80</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R21">
+      <value>750R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="LCSC">C17818</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C17818"/>
+      <property name="Sheetname" value="zHeat_PCB"/>
+      <property name="Sheetfile" value="zHeat_PCB.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>315f651e-753f-46f8-8b0c-55550f817402</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R22">
+      <value>150k 0,1%</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="LCSC">C136927</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C136927"/>
+      <property name="Sheetname" value="zHeat_PCB"/>
+      <property name="Sheetfile" value="zHeat_PCB.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a54c2d17-0414-4160-84c6-d2747f8a2670</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R23">
+      <value>10k 0,1%</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="LCSC">C110775</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C110775"/>
+      <property name="Sheetname" value="zHeat_PCB"/>
+      <property name="Sheetfile" value="zHeat_PCB.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1dc8e1d3-fff7-49bc-8967-a26087c809be</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R24">
+      <value>330R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="LCSC">C17630</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C17630"/>
+      <property name="Sheetname" value="zHeat_PCB"/>
+      <property name="Sheetfile" value="zHeat_PCB.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a47ccdfa-0a83-4345-b22b-e0fe2878e649</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R25">
+      <value>8.2k 1%</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="LCSC">C17828</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C17828"/>
+      <property name="Sheetname" value="zHeat_PCB"/>
+      <property name="Sheetfile" value="zHeat_PCB.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dabe97c6-1898-431d-b971-864904f7a59d</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R26">
+      <value>3.9k 1%</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="LCSC">C114221</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C114221"/>
+      <property name="Sheetname" value="zHeat_PCB"/>
+      <property name="Sheetfile" value="zHeat_PCB.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>de7daa00-567d-4f2c-a81f-21266266558d</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R27">
+      <value>6.8k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="LCSC">C114550</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C114550"/>
+      <property name="Sheetname" value="zHeat_PCB"/>
+      <property name="Sheetfile" value="zHeat_PCB.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b8d31097-27b9-4d89-8711-6008a853fe4a</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R28">
+      <value>5.6k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="LCSC">C114538</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C114538"/>
+      <property name="Sheetname" value="zHeat_PCB"/>
+      <property name="Sheetfile" value="zHeat_PCB.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>96805d96-bf3f-46fb-8318-cdd54fe6c135</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R29">
+      <value>1R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="LCSC">C25271</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C25271"/>
+      <property name="Sheetname" value="zHeat_PCB"/>
+      <property name="Sheetfile" value="zHeat_PCB.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>aa6bd563-6cd4-4c9e-b631-002ccd736d29</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R30">
+      <value>82R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="LCSC">C17841</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C17841"/>
+      <property name="Sheetname" value="zHeat_PCB"/>
+      <property name="Sheetfile" value="zHeat_PCB.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>57abb5f4-5fd4-4d11-8b09-9167a44938bb</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R31">
+      <value>180k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="LCSC">C17501</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C17501"/>
+      <property name="Sheetname" value="zHeat_PCB"/>
+      <property name="Sheetfile" value="zHeat_PCB.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>73b3a759-ab98-47c0-aca7-20454a16b342</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R32">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="LCSC">C17513</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C17513"/>
+      <property name="Sheetname" value="zHeat_PCB"/>
+      <property name="Sheetfile" value="zHeat_PCB.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3e3757ea-c9c9-4a39-ab36-ccec608376b0</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R33">
+      <value>4.7R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="LCSC">C17675</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C17675"/>
+      <property name="Sheetname" value="zHeat_PCB"/>
+      <property name="Sheetfile" value="zHeat_PCB.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c859fb54-9fbd-40c5-ae8c-63491f973f75</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R34">
+      <value>4.7R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="LCSC">C17675</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C17675"/>
+      <property name="Sheetname" value="zHeat_PCB"/>
+      <property name="Sheetfile" value="zHeat_PCB.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>979521f3-9360-4efd-9dd2-2d91882a130b</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R35">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="LCSC">C17414</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C17414"/>
+      <property name="Sheetname" value="zHeat_PCB"/>
+      <property name="Sheetfile" value="zHeat_PCB.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b6ff3e88-7233-49cf-8979-f7983129db7d</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R36">
+      <value>120R 0,1%</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="LCSC">C2989047</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C2989047"/>
+      <property name="Sheetname" value="zHeat_PCB"/>
+      <property name="Sheetfile" value="zHeat_PCB.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c0b857a4-b620-410c-b629-9aa56bf3f6e5</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="S1">
+      <value>B3FS-1000P</value>
+      <footprint>zHeatFootprints:B3FS-1000P</footprint>
+      <datasheet>https://www.omron.co.jp/ecb/products/pdf/b3fs.pdf</datasheet>
+      <description>Switch Tact,6x6mm,flat act,gen purp,tape Plunger Tactile Switch, SPST-NO 0.05 A@ 24 V dc 0.5mm</description>
+      <fields>
+        <field name="PARTREV">1.0</field>
+        <field name="MANUFACTURER">CUI Devices</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">2.7 mm</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="MF">Same Sky</field>
+        <field name="Package">None</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/TS07-667-30-BK-100-SMT-TR/Same+Sky/view-part/?ref=eda</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/TS07-667-30-BK-100-SMT-TR/Same+Sky/view-part/?ref=snap</field>
+        <field name="MP">TS07-667-30-BK-100-SMT-TR</field>
+        <field name="Description_1">6 x 6.7 mm, 3 mm Actuator Height, 100 gf, Black, Surface Mount, SPST, Tactile Switch</field>
+        <field name="Availability">In Stock</field>
+        <field name="LCSC">C271750</field>
+        <field name="Height"/>
+        <field name="Mouser Part Number">653-B3FS-1000P</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Omron-Electronics/B3FS-1000P?qs=ImaqFqjHA4k6odVF2%2FXWpQ%3D%3D</field>
+        <field name="Manufacturer_Name">OMRON Electronics</field>
+        <field name="Manufacturer_Part_Number">B3FS-1000P</field>
+        <field name="Footprint">zHeatFootprints:B3FS-1000P</field>
+        <field name="Datasheet">https://www.omron.co.jp/ecb/products/pdf/b3fs.pdf</field>
+        <field name="Description">Switch Tact,6x6mm,flat act,gen purp,tape Plunger Tactile Switch, SPST-NO 0.05 A@ 24 V dc 0.5mm</field>
+      </fields>
+      <libsource lib="zHeat" part="B3FS-1000P" description="Switch Tact,6x6mm,flat act,gen purp,tape Plunger Tactile Switch, SPST-NO 0.05 A@ 24 V dc 0.5mm"/>
+      <property name="PARTREV" value="1.0"/>
+      <property name="MANUFACTURER" value="CUI Devices"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="2.7 mm"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="MF" value="Same Sky"/>
+      <property name="Package" value="None"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/TS07-667-30-BK-100-SMT-TR/Same+Sky/view-part/?ref=eda"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/TS07-667-30-BK-100-SMT-TR/Same+Sky/view-part/?ref=snap"/>
+      <property name="MP" value="TS07-667-30-BK-100-SMT-TR"/>
+      <property name="Description_1" value="6 x 6.7 mm, 3 mm Actuator Height, 100 gf, Black, Surface Mount, SPST, Tactile Switch"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="LCSC" value="C271750"/>
+      <property name="Height" value=""/>
+      <property name="Mouser Part Number" value="653-B3FS-1000P"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Omron-Electronics/B3FS-1000P?qs=ImaqFqjHA4k6odVF2%2FXWpQ%3D%3D"/>
+      <property name="Manufacturer_Name" value="OMRON Electronics"/>
+      <property name="Manufacturer_Part_Number" value="B3FS-1000P"/>
+      <property name="Sheetname" value="zHeat_PCB"/>
+      <property name="Sheetfile" value="zHeat_PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>54e5d555-79d2-43a0-a76d-ba01c490f92b</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="4"/>
+            <pin num="2"/>
+            <pin num="3"/>
+            <pin num="1"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="U1">
+      <value>ESP32-C6-WROOM-1</value>
+      <footprint>zHeatFootprints:ESP32-C6-WROOM-1</footprint>
+      <datasheet>https://www.espressif.com/sites/default/files/documentation/esp32-c6-wroom-1_wroom-1u_datasheet_en.pdf</datasheet>
+      <description>ESP32-C6-WROOM-1/U is a module that supports 2.4 GHz Wi-Fi 6 (802.11 ax), Bluetooth® 5 (LE), Zigbee and Thread (802.15.4)</description>
+      <fields>
+        <field name="LCSC">C5366877</field>
+        <field name="Footprint">zHeatFootprints:ESP32-C6-WROOM-1</field>
+        <field name="Datasheet">https://www.espressif.com/sites/default/files/documentation/esp32-c6-wroom-1_wroom-1u_datasheet_en.pdf</field>
+        <field name="Description">ESP32-C6-WROOM-1/U is a module that supports 2.4 GHz Wi-Fi 6 (802.11 ax), Bluetooth® 5 (LE), Zigbee and Thread (802.15.4)</field>
+      </fields>
+      <libsource lib="Espressif" part="ESP32-C6-WROOM-1" description="ESP32-C6-WROOM-1/U is a module that supports 2.4 GHz Wi-Fi 6 (802.11 ax), Bluetooth® 5 (LE), Zigbee and Thread (802.15.4)"/>
+      <property name="LCSC" value="C5366877"/>
+      <property name="Sheetname" value="zHeat_PCB"/>
+      <property name="Sheetfile" value="zHeat_PCB.kicad_sch"/>
+      <property name="ki_keywords" value="esp32-c6 esp32-c6-wroom-1 esp32-c6-wroom-1u"/>
+      <property name="ki_fp_filters" value="ESP32-C6-WROOM-1*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a92ef20b-735e-42ce-b85a-fd1974a25f1a</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="3"/>
+            <pin num="8"/>
+            <pin num="9"/>
+            <pin num="27"/>
+            <pin num="26"/>
+            <pin num="4"/>
+            <pin num="5"/>
+            <pin num="6"/>
+            <pin num="7"/>
+            <pin num="22"/>
+            <pin num="2"/>
+            <pin num="1"/>
+            <pin num="28"/>
+            <pin num="29"/>
+            <pin num="25"/>
+            <pin num="24"/>
+            <pin num="14"/>
+            <pin num="13"/>
+            <pin num="10"/>
+            <pin num="15"/>
+            <pin num="11"/>
+            <pin num="12"/>
+            <pin num="23"/>
+            <pin num="16"/>
+            <pin num="17"/>
+            <pin num="18"/>
+            <pin num="19"/>
+            <pin num="20"/>
+            <pin num="21"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="U2">
+      <value>LM2735X (1.6MHz)</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-5</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/lm2735.pdf</datasheet>
+      <description>LM27313, 2.1A, 24Vout Boost/FlybacK/SEPIC Voltage Regulator, 520kHz/1.6MHz Frequency,</description>
+      <fields>
+        <field name="LCSC">C555454</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23-5</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/lm2735.pdf</field>
+        <field name="Description">LM27313, 2.1A, 24Vout Boost/FlybacK/SEPIC Voltage Regulator, 520kHz/1.6MHz Frequency,</field>
+      </fields>
+      <libsource lib="Regulator_Switching" part="LM2735XMF" description="LM27313, 2.1A, 24Vout Boost/FlybacK/SEPIC Voltage Regulator, 520kHz/1.6MHz Frequency,"/>
+      <property name="LCSC" value="C555454"/>
+      <property name="Sheetname" value="zHeat_PCB"/>
+      <property name="Sheetfile" value="zHeat_PCB.kicad_sch"/>
+      <property name="ki_keywords" value="Miniature Step-Up Boost Flyback SEPIC Voltage Regulator"/>
+      <property name="ki_fp_filters" value="SOT?23*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0b4b69ba-7829-4815-8c31-d4bb326243f4</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="5"/>
+            <pin num="4"/>
+            <pin num="2"/>
+            <pin num="1"/>
+            <pin num="3"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="U3">
+      <value>MCP1826S-3302E/DB</value>
+      <footprint>Package_TO_SOT_SMD:SOT-223-3_TabPin2</footprint>
+      <datasheet>https://www.analog.com/media/en/technical-documentation/data-sheets/1963aff.pdf</datasheet>
+      <description>3.3V, 1.5A, Low Noise, Fast Transient Response LDO Regulator, SOT-223</description>
+      <fields>
+        <field name="LCSC">C638624</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-223-3_TabPin2</field>
+        <field name="Datasheet">https://www.analog.com/media/en/technical-documentation/data-sheets/1963aff.pdf</field>
+        <field name="Description">3.3V, 1.5A, Low Noise, Fast Transient Response LDO Regulator, SOT-223</field>
+      </fields>
+      <libsource lib="Regulator_Linear" part="LT1963AxST-3.3" description="3.3V, 1.5A, Low Noise, Fast Transient Response LDO Regulator, SOT-223"/>
+      <property name="LCSC" value="C638624"/>
+      <property name="Sheetname" value="zHeat_PCB"/>
+      <property name="Sheetfile" value="zHeat_PCB.kicad_sch"/>
+      <property name="ki_keywords" value="LDO voltage regulator fixed"/>
+      <property name="ki_fp_filters" value="SOT*223*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a7b0cd02-ea4c-4c4c-aaaa-526ac162b22f</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+            <pin num="3"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="U4">
+      <value>MAX22088GTG_</value>
+      <footprint>zHeatFootprints:QFN50P400X400X80-25N</footprint>
+      <description>Home Bus System (HBS) Compatible Transceiver</description>
+      <fields>
+        <field name="MF">Analog Devices</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">0.8mm</field>
+        <field name="CREATOR">ASHISH</field>
+        <field name="Price">None</field>
+        <field name="Package">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/MAX22088GTG+/Analog+Devices/view-part/?ref=eda</field>
+        <field name="STANDARD">IPC-7351B</field>
+        <field name="PARTREV">4</field>
+        <field name="VERIFIER"/>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/MAX22088GTG+/Analog+Devices/view-part/?ref=snap</field>
+        <field name="MP">MAX22088GTG+</field>
+        <field name="Purchase-URL">https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=6390156&amp;manufacturer=Analog Devices&amp;part_name=MAX22088GTG+&amp;search_term=None</field>
+        <field name="Availability">In Stock</field>
+        <field name="MANUFACTURER">Analog Devices</field>
+        <field name="LCSC">C5258925</field>
+        <field name="Footprint">zHeatFootprints:QFN50P400X400X80-25N</field>
+        <field name="Datasheet"/>
+        <field name="Description">Home Bus System (HBS) Compatible Transceiver</field>
+      </fields>
+      <libsource lib="zHeat" part="MAX22088GTG_" description="Home Bus System (HBS) Compatible Transceiver"/>
+      <property name="MF" value="Analog Devices"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="0.8mm"/>
+      <property name="CREATOR" value="ASHISH"/>
+      <property name="Price" value="None"/>
+      <property name="Package" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/MAX22088GTG+/Analog+Devices/view-part/?ref=eda"/>
+      <property name="STANDARD" value="IPC-7351B"/>
+      <property name="PARTREV" value="4"/>
+      <property name="VERIFIER" value=""/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/MAX22088GTG+/Analog+Devices/view-part/?ref=snap"/>
+      <property name="MP" value="MAX22088GTG+"/>
+      <property name="Purchase-URL" value="https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=6390156&amp;manufacturer=Analog Devices&amp;part_name=MAX22088GTG+&amp;search_term=None"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="MANUFACTURER" value="Analog Devices"/>
+      <property name="LCSC" value="C5258925"/>
+      <property name="Sheetname" value="zHeat_PCB"/>
+      <property name="Sheetfile" value="zHeat_PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>968bf94e-0f8c-4563-b1f8-777b6c9a6bf3</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="19"/>
+            <pin num="23"/>
+            <pin num="20"/>
+            <pin num="1"/>
+            <pin num="2"/>
+            <pin num="3"/>
+            <pin num="21"/>
+            <pin num="22"/>
+            <pin num="6"/>
+            <pin num="13"/>
+            <pin num="24"/>
+            <pin num="17"/>
+            <pin num="10"/>
+            <pin num="18"/>
+            <pin num="11"/>
+            <pin num="7"/>
+            <pin num="12"/>
+            <pin num="15"/>
+            <pin num="14"/>
+            <pin num="4"/>
+            <pin num="5"/>
+            <pin num="8"/>
+            <pin num="9"/>
+            <pin num="16"/>
+            <pin num="25"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="BZA408B_125" part="BZA408B,125">
+      <description>BZA408B - Quadruple bidirectional ESD transient voltage suppressor</description>
+      <docs>https://assets.nexperia.com/documents/data-sheet/BZA408B.pdf</docs>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">BZA408B,125</field>
+        <field name="Footprint">SOT95P275X110-6N</field>
+        <field name="Datasheet">https://assets.nexperia.com/documents/data-sheet/BZA408B.pdf</field>
+        <field name="Description">BZA408B - Quadruple bidirectional ESD transient voltage suppressor</field>
+        <field name="Height">1.1</field>
+        <field name="Mouser Part Number">771-BZA408B,125</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Nexperia/BZA408B125?qs=mSipnS5lFm9w4UlGdFtDOg%3D%3D</field>
+        <field name="Manufacturer_Name">Nexperia</field>
+        <field name="Manufacturer_Part_Number">BZA408B,125</field>
+      </fields>
+      <pins>
+        <pin num="1" name="C1" type="passive"/>
+        <pin num="2" name="G1" type="passive"/>
+        <pin num="3" name="C2" type="passive"/>
+        <pin num="4" name="C3" type="passive"/>
+        <pin num="5" name="G2" type="passive"/>
+        <pin num="6" name="C4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D_Filled">
+      <description>Diode, filled shape</description>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Filled</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">Diode, filled shape</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D_Schottky_Filled">
+      <description>Schottky diode, filled shape</description>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Schottky_Filled</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">Schottky diode, filled shape</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="L">
+      <description>Inductor</description>
+      <footprints>
+        <fp>Choke_*</fp>
+        <fp>*Coil*</fp>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">L</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">Inductor</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">Light emitting diode</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Diode" part="ESD5Zxx">
+      <description>ESD Protection Diode, SOD-523</description>
+      <docs>https://www.onsemi.com/pdf/datasheet/esd5z2.5t1-d.pdf</docs>
+      <footprints>
+        <fp>D?SOD?523*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">ESD5Zxx</field>
+        <field name="Footprint">Diode_SMD:D_SOD-523</field>
+        <field name="Datasheet">https://www.onsemi.com/pdf/datasheet/esd5z2.5t1-d.pdf</field>
+        <field name="Description">ESD Protection Diode, SOD-523</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Diode" part="SM6T24A">
+      <description>600W unidirectional Transil Transient Voltage Suppressor, 24Vrwm, DO-214AA</description>
+      <docs>https://www.st.com/resource/en/datasheet/sm6t.pdf</docs>
+      <footprints>
+        <fp>D*SMB*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">SM6T24A</field>
+        <field name="Footprint">Diode_SMD:D_SMB</field>
+        <field name="Datasheet">https://www.st.com/resource/en/datasheet/sm6t.pdf</field>
+        <field name="Description">600W unidirectional Transil Transient Voltage Suppressor, 24Vrwm, DO-214AA</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A1" type="passive"/>
+        <pin num="2" name="A2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Diode" part="SMAJ15CA">
+      <description>400W bidirectional Transient Voltage Suppressor, 15.0Vr, SMA(DO-214AC)</description>
+      <docs>https://www.littelfuse.com/media?resourcetype=datasheets&amp;itemid=75e32973-b177-4ee3-a0ff-cedaf1abdb93&amp;filename=smaj-datasheet</docs>
+      <footprints>
+        <fp>D*SMA*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">SMAJ15CA</field>
+        <field name="Footprint">Diode_SMD:D_SMA</field>
+        <field name="Datasheet">https://www.littelfuse.com/media?resourcetype=datasheets&amp;itemid=75e32973-b177-4ee3-a0ff-cedaf1abdb93&amp;filename=smaj-datasheet</field>
+        <field name="Description">400W bidirectional Transient Voltage Suppressor, 15.0Vr, SMA(DO-214AC)</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A1" type="passive"/>
+        <pin num="2" name="A2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Espressif" part="ESP32-C6-WROOM-1">
+      <description>ESP32-C6-WROOM-1/U is a module that supports 2.4 GHz Wi-Fi 6 (802.11 ax), Bluetooth® 5 (LE), Zigbee and Thread (802.15.4)</description>
+      <docs>https://www.espressif.com/sites/default/files/documentation/esp32-c6-wroom-1_wroom-1u_datasheet_en.pdf</docs>
+      <footprints>
+        <fp>ESP32-C6-WROOM-1*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ESP32-C6-WROOM-1</field>
+        <field name="Footprint">PCM_Espressif:ESP32-C6-WROOM-1</field>
+        <field name="Datasheet">https://www.espressif.com/sites/default/files/documentation/esp32-c6-wroom-1_wroom-1u_datasheet_en.pdf</field>
+        <field name="Description">ESP32-C6-WROOM-1/U is a module that supports 2.4 GHz Wi-Fi 6 (802.11 ax), Bluetooth® 5 (LE), Zigbee and Thread (802.15.4)</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="3V3" type="power_in"/>
+        <pin num="3" name="EN/CHIP_PU" type="input"/>
+        <pin num="4" name="MTMS/GPIO4/ADC1_CH4" type="bidirectional"/>
+        <pin num="5" name="MTDI/GPIO5/ADC1_CH5" type="bidirectional"/>
+        <pin num="6" name="MTCK/GPIO6/ADC1_CH6" type="bidirectional"/>
+        <pin num="7" name="MTDO/GPIO7" type="bidirectional"/>
+        <pin num="8" name="GPIO0/ADC1_CH0/XTAL_32K_P" type="bidirectional"/>
+        <pin num="9" name="GPIO1/ADC1_CH1/XTAL_32K_N" type="bidirectional"/>
+        <pin num="10" name="GPIO8" type="bidirectional"/>
+        <pin num="11" name="GPIO10" type="bidirectional"/>
+        <pin num="12" name="GPIO11" type="bidirectional"/>
+        <pin num="13" name="GPIO12/USB_D-" type="bidirectional"/>
+        <pin num="14" name="GPIO13/USB_D+" type="bidirectional"/>
+        <pin num="15" name="GPIO9" type="bidirectional"/>
+        <pin num="16" name="GPIO18" type="bidirectional"/>
+        <pin num="17" name="GPIO19" type="bidirectional"/>
+        <pin num="18" name="GPIO20" type="bidirectional"/>
+        <pin num="19" name="GPIO21" type="bidirectional"/>
+        <pin num="20" name="GPIO22" type="bidirectional"/>
+        <pin num="21" name="GPIO23" type="bidirectional"/>
+        <pin num="22" name="NC" type="no_connect"/>
+        <pin num="23" name="GPIO15" type="bidirectional"/>
+        <pin num="24" name="U0RXD/GPIO17" type="bidirectional"/>
+        <pin num="25" name="U0TXD/GPIO16" type="bidirectional"/>
+        <pin num="26" name="GPIO3/ADC1_CH3" type="bidirectional"/>
+        <pin num="27" name="GPIO2/ADC1_CH2" type="bidirectional"/>
+        <pin num="28" name="GND" type="passive"/>
+        <pin num="29" name="GND" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Linear" part="LT1963AxST-3.3">
+      <description>3.3V, 1.5A, Low Noise, Fast Transient Response LDO Regulator, SOT-223</description>
+      <docs>https://www.analog.com/media/en/technical-documentation/data-sheets/1963aff.pdf</docs>
+      <footprints>
+        <fp>SOT*223*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LT1963AxST-3.3</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-223-3_TabPin2</field>
+        <field name="Datasheet">https://www.analog.com/media/en/technical-documentation/data-sheets/1963aff.pdf</field>
+        <field name="Description">3.3V, 1.5A, Low Noise, Fast Transient Response LDO Regulator, SOT-223</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IN" type="power_in"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="OUT" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Switching" part="LM2735XMF">
+      <description>LM27313, 2.1A, 24Vout Boost/FlybacK/SEPIC Voltage Regulator, 520kHz/1.6MHz Frequency,</description>
+      <docs>http://www.ti.com/lit/ds/symlink/lm2735.pdf</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LM2735XMF</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23-5</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/lm2735.pdf</field>
+        <field name="Description">LM27313, 2.1A, 24Vout Boost/FlybacK/SEPIC Voltage Regulator, 520kHz/1.6MHz Frequency,</field>
+      </fields>
+      <pins>
+        <pin num="1" name="SW" type="output"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="FB" type="input"/>
+        <pin num="4" name="EN" type="input"/>
+        <pin num="5" name="VIN" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Transistor_BJT" part="BC847BS">
+      <description>100mA IC, 45V Vce, Dual NPN/NPN Transistors, SOT-363</description>
+      <docs>https://assets.nexperia.com/documents/data-sheet/BC847BS.pdf</docs>
+      <footprints>
+        <fp>SOT?363*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">BC847BS</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-363_SC-70-6</field>
+        <field name="Datasheet">https://assets.nexperia.com/documents/data-sheet/BC847BS.pdf</field>
+        <field name="Description">100mA IC, 45V Vce, Dual NPN/NPN Transistors, SOT-363</field>
+      </fields>
+      <pins>
+        <pin num="1" name="E1" type="passive"/>
+        <pin num="2" name="B1" type="input"/>
+        <pin num="3" name="C2" type="passive"/>
+        <pin num="4" name="E2" type="passive"/>
+        <pin num="5" name="B2" type="input"/>
+        <pin num="6" name="C1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="USB 4110GFA" part="USB4110GFA">
+      <description>USB-C (USB TYPE-C) USB 2.0 Receptacle Connector 24 (16+8 Dummy) Position Surface Mount, Right Angle</description>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">USB4110GFA</field>
+        <field name="Footprint">USB4110GFA:GCT_USB4110GFA</field>
+        <field name="Datasheet"/>
+        <field name="Description">USB-C (USB TYPE-C) USB 2.0 Receptacle Connector 24 (16+8 Dummy) Position Surface Mount, Right Angle</field>
+        <field name="MF">Global Connector Technology</field>
+        <field name="Package">None</field>
+        <field name="Price">None</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/USB4110GFA/Global+Connector+Technology/view-part/?ref=snap</field>
+        <field name="MP">USB4110GFA</field>
+        <field name="Purchase-URL">https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=7348857&amp;manufacturer=Global Connector Technology&amp;part_name=USB4110GFA&amp;search_term=usb4110-gf-a</field>
+        <field name="Availability">In Stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/USB4110GFA/Global+Connector+Technology/view-part/?ref=eda</field>
+      </fields>
+      <pins>
+        <pin num="A1/B12" name="GND" type="power_in"/>
+        <pin num="A4/B9" name="VBUS" type="power_in"/>
+        <pin num="A5" name="CC1" type="bidirectional"/>
+        <pin num="A6" name="DP1" type="bidirectional"/>
+        <pin num="A7" name="DN1" type="bidirectional"/>
+        <pin num="A8" name="SBU1" type="bidirectional"/>
+        <pin num="B1/A12" name="GND" type="power_in"/>
+        <pin num="B4/A9" name="VBUS" type="power_in"/>
+        <pin num="B5" name="CC2" type="bidirectional"/>
+        <pin num="B6" name="DP2" type="bidirectional"/>
+        <pin num="B7" name="DN2" type="bidirectional"/>
+        <pin num="B8" name="SBU2" type="bidirectional"/>
+        <pin num="S1" name="GND" type="power_in"/>
+        <pin num="S2" name="GND" type="power_in"/>
+        <pin num="S3" name="GND" type="power_in"/>
+        <pin num="S4" name="GND" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="zHeat" part="1985195">
+      <description>PTSA 1,5/ 2-3,5-Z - Printed circuit board terminal, nominal current: 8 A, rated voltage (III/2): 400 V, nominal cross section: 1.5 mm&lt;sup&gt;2&lt;/sup&gt;, number of potentials: 2, number of rows: 1, number of positions per row: 2, product range: PTSA 1,5, pitch: 3.5 mm, connection method: Push-in spring connection, mounting: Wave soldering, conductor/PCB connection direction: 45 , color: green, Pin layout: Zigzag pinning W, Solder pin [P]: 3.5 mm, number of solder pins per potential: 1, type of packaging: packed i</description>
+      <docs>https://www.phoenixcontact.com/en-us/products/printed-circuit-board-terminal-ptsa-15-2-35-z-1985195?type=pdf</docs>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">1985195</field>
+        <field name="Footprint">1985195</field>
+        <field name="Datasheet">https://www.phoenixcontact.com/en-us/products/printed-circuit-board-terminal-ptsa-15-2-35-z-1985195?type=pdf</field>
+        <field name="Description">PTSA 1,5/ 2-3,5-Z - Printed circuit board terminal, nominal current: 8 A, rated voltage (III/2): 400 V, nominal cross section: 1.5 mm&lt;sup&gt;2&lt;/sup&gt;, number of potentials: 2, number of rows: 1, number of positions per row: 2, product range: PTSA 1,5, pitch: 3.5 mm, connection method: Push-in spring connection, mounting: Wave soldering, conductor/PCB connection direction: 45 , color: green, Pin layout: Zigzag pinning W, Solder pin [P]: 3.5 mm, number of solder pins per potential: 1, type of packaging: packed i</field>
+        <field name="Height">13</field>
+        <field name="Mouser Part Number">651-1985195</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1985195?qs=nq%2FEIFkB2fEpUV%252BqAaKYzQ%3D%3D</field>
+        <field name="Manufacturer_Name">Phoenix Contact</field>
+        <field name="Manufacturer_Part_Number">1985195</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="zHeat" part="B3FS-1000P">
+      <description>Switch Tact,6x6mm,flat act,gen purp,tape Plunger Tactile Switch, SPST-NO 0.05 A@ 24 V dc 0.5mm</description>
+      <docs>https://www.omron.co.jp/ecb/products/pdf/b3fs.pdf</docs>
+      <fields>
+        <field name="Reference">S</field>
+        <field name="Value">B3FS-1000P</field>
+        <field name="Footprint">B3FS-1000P</field>
+        <field name="Datasheet">https://www.omron.co.jp/ecb/products/pdf/b3fs.pdf</field>
+        <field name="Description">Switch Tact,6x6mm,flat act,gen purp,tape Plunger Tactile Switch, SPST-NO 0.05 A@ 24 V dc 0.5mm</field>
+        <field name="Height"/>
+        <field name="Mouser Part Number">653-B3FS-1000P</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Omron-Electronics/B3FS-1000P?qs=ImaqFqjHA4k6odVF2%2FXWpQ%3D%3D</field>
+        <field name="Manufacturer_Name">OMRON Electronics</field>
+        <field name="Manufacturer_Part_Number">B3FS-1000P</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+        <pin num="4" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="zHeat" part="MAX14932AASE+">
+      <description>MAXIM INTEGRATED PRODUCTS - MAX14932AASE+ - DIGI ISOLATOR, 1MBPS, 2.75KV, NSOIC-16</description>
+      <docs>https://datasheets.maximintegrated.com/en/ds/MAX14130-MAX14932.pdf</docs>
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">MAX14932AASE+</field>
+        <field name="Footprint">SOIC127P600X175-16N</field>
+        <field name="Datasheet">https://datasheets.maximintegrated.com/en/ds/MAX14130-MAX14932.pdf</field>
+        <field name="Description">MAXIM INTEGRATED PRODUCTS - MAX14932AASE+ - DIGI ISOLATOR, 1MBPS, 2.75KV, NSOIC-16</field>
+        <field name="Height">1.75</field>
+        <field name="Mouser Part Number">700-MAX14932AASE+</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Analog-Devices-Maxim-Integrated/MAX14932AASE%2b?qs=vS28%252BL64B%2FqCGKd3XPjtmw%3D%3D</field>
+        <field name="Manufacturer_Name">Analog Devices</field>
+        <field name="Manufacturer_Part_Number">MAX14932AASE+</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VDDA" type="passive"/>
+        <pin num="2" name="GNDA_1" type="passive"/>
+        <pin num="3" name="INA1" type="passive"/>
+        <pin num="4" name="INA2" type="passive"/>
+        <pin num="5" name="OUTA1" type="passive"/>
+        <pin num="6" name="OUTA2" type="passive"/>
+        <pin num="7" name="ENA" type="passive"/>
+        <pin num="8" name="GNDA_2" type="passive"/>
+        <pin num="9" name="GNDB_1" type="passive"/>
+        <pin num="10" name="ENB" type="passive"/>
+        <pin num="11" name="INB2" type="passive"/>
+        <pin num="12" name="INB1" type="passive"/>
+        <pin num="13" name="OUTB2" type="passive"/>
+        <pin num="14" name="OUTB1" type="passive"/>
+        <pin num="15" name="GNDB_2" type="passive"/>
+        <pin num="16" name="VDDB" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="zHeat" part="MAX22088GTG_">
+      <description>Home Bus System (HBS) Compatible Transceiver</description>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MAX22088GTG_</field>
+        <field name="Footprint">MAX22088GTG_:QFN50P400X400X80-25N</field>
+        <field name="Datasheet"/>
+        <field name="Description">Home Bus System (HBS) Compatible Transceiver</field>
+        <field name="MF">Analog Devices</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">0.8mm</field>
+        <field name="CREATOR">ASHISH</field>
+        <field name="Price">None</field>
+        <field name="Package">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/MAX22088GTG+/Analog+Devices/view-part/?ref=eda</field>
+        <field name="STANDARD">IPC-7351B</field>
+        <field name="PARTREV">4</field>
+        <field name="VERIFIER"/>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/MAX22088GTG+/Analog+Devices/view-part/?ref=snap</field>
+        <field name="MP">MAX22088GTG+</field>
+        <field name="Purchase-URL">https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=6390156&amp;manufacturer=Analog Devices&amp;part_name=MAX22088GTG+&amp;search_term=None</field>
+        <field name="Availability">In Stock</field>
+        <field name="MANUFACTURER">Analog Devices</field>
+      </fields>
+      <pins>
+        <pin num="1" name="DOUT" type="output"/>
+        <pin num="2" name="DIN" type="input"/>
+        <pin num="3" name="RST" type="input"/>
+        <pin num="4" name="CAPN" type="passive"/>
+        <pin num="5" name="HNA" type="passive"/>
+        <pin num="6" name="NC" type="no_connect"/>
+        <pin num="7" name="BIO" type="bidirectional"/>
+        <pin num="8" name="HN" type="input"/>
+        <pin num="9" name="GND_" type="power_in"/>
+        <pin num="10" name="HP" type="input"/>
+        <pin num="11" name="AIO" type="bidirectional"/>
+        <pin num="12" name="TERM" type="passive"/>
+        <pin num="13" name="NC" type="no_connect"/>
+        <pin num="14" name="HPA" type="passive"/>
+        <pin num="15" name="CAPP" type="passive"/>
+        <pin num="16" name="GND_" type="power_in"/>
+        <pin num="17" name="VCC" type="power_in"/>
+        <pin num="18" name="VRAW" type="output"/>
+        <pin num="19" name="EN" type="input"/>
+        <pin num="20" name="~{HPEN}" type="input"/>
+        <pin num="21" name="TVL" type="passive"/>
+        <pin num="22" name="TVT" type="passive"/>
+        <pin num="23" name="SRA" type="input"/>
+        <pin num="24" name="NC" type="no_connect"/>
+        <pin num="25" name="EP" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="zHeat" part="MB1S">
+      <description>Surge Overload Rating: 35 A Peak; Low-Leakage; Ideal for Printed Circuit Board; UL Certified: UL #E258596</description>
+      <docs>https://www.onsemi.com/pub/Collateral/MB8S-D.PDF</docs>
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">MB1S</field>
+        <field name="Footprint">SOP245P670X290-4N</field>
+        <field name="Datasheet">https://www.onsemi.com/pub/Collateral/MB8S-D.PDF</field>
+        <field name="Description">Surge Overload Rating: 35 A Peak; Low-Leakage; Ideal for Printed Circuit Board; UL Certified: UL #E258596</field>
+        <field name="Height">2.9</field>
+        <field name="Mouser Part Number">512-MB1S</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/onsemi-Fairchild/MB1S?qs=DPwKKv7J1fwyOHno5d2nnw%3D%3D</field>
+        <field name="Manufacturer_Name">onsemi</field>
+        <field name="Manufacturer_Part_Number">MB1S</field>
+      </fields>
+      <pins>
+        <pin num="1" name="+" type="passive"/>
+        <pin num="2" name="-" type="passive"/>
+        <pin num="3" name="~_1" type="passive"/>
+        <pin num="4" name="~_2" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="BZA408B_125">
+      <uri>${KIPRJMOD}/library/sym/BZA408B_125.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>${KICAD10_SYMBOL_DIR}/Device.kicad_sym</uri>
+    </library>
+    <library logical="Diode">
+      <uri>${KICAD10_SYMBOL_DIR}/Diode.kicad_sym</uri>
+    </library>
+    <library logical="Espressif">
+      <uri>${KIPRJMOD}/library/sym/Espressif.kicad_sym</uri>
+    </library>
+    <library logical="Regulator_Linear">
+      <uri>${KICAD10_SYMBOL_DIR}/Regulator_Linear.kicad_sym</uri>
+    </library>
+    <library logical="Regulator_Switching">
+      <uri>${KICAD10_SYMBOL_DIR}/Regulator_Switching.kicad_sym</uri>
+    </library>
+    <library logical="Transistor_BJT">
+      <uri>${KICAD10_SYMBOL_DIR}/Transistor_BJT.kicad_sym</uri>
+    </library>
+    <library logical="USB 4110GFA">
+      <uri>${KIPRJMOD}/library/sym/USB4110GFA.kicad_sym</uri>
+    </library>
+    <library logical="zHeat">
+      <uri>${KIPRJMOD}/library/sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3.3V" class="Power">
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="C16" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="D3" pin="2" pinfunction="A_2" pintype="passive"/>
+      <node ref="D5" pin="2" pinfunction="A_2" pintype="passive"/>
+      <node ref="D7" pin="2" pinfunction="A_2" pintype="passive"/>
+      <node ref="D8" pin="2" pinfunction="A_2" pintype="passive"/>
+      <node ref="IC1" pin="1" pinfunction="VDDA_1" pintype="passive"/>
+      <node ref="IC1" pin="7" pinfunction="ENA_7" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R28" pin="2" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="3V3_2" pintype="power_in"/>
+      <node ref="U3" pin="3" pinfunction="OUT_3" pintype="power_out"/>
+    </net>
+    <net code="2" name="+5V" class="Power">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="D4" pin="1" pinfunction="K_1" pintype="passive"/>
+      <node ref="L1" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="R14" pin="1" pintype="passive"/>
+      <node ref="U2" pin="5" pinfunction="VIN_5" pintype="input"/>
+      <node ref="U3" pin="1" pinfunction="IN_1" pintype="power_in"/>
+    </net>
+    <net code="3" name="+20V" class="Power">
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="D6" pin="1" pinfunction="K_1" pintype="passive"/>
+      <node ref="J4" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="R22" pin="1" pintype="passive"/>
+    </net>
+    <net code="4" name="/H+" class="Default">
+      <node ref="C22" pin="1" pintype="passive"/>
+      <node ref="IC3" pin="4" pinfunction="~_2_4" pintype="passive"/>
+      <node ref="J3" pin="1" pinfunction="1_1" pintype="passive"/>
+    </net>
+    <net code="5" name="/H-" class="Default">
+      <node ref="C23" pin="1" pintype="passive"/>
+      <node ref="IC3" pin="3" pinfunction="~_1_3" pintype="passive"/>
+      <node ref="J3" pin="2" pinfunction="2_2" pintype="passive"/>
+    </net>
+    <net code="6" name="/SW" class="Power">
+      <node ref="D6" pin="2" pinfunction="A_2" pintype="passive"/>
+      <node ref="L1" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="U2" pin="1" pinfunction="SW_1" pintype="output"/>
+    </net>
+    <net code="7" name="A1" class="Default">
+      <node ref="C24" pin="1" pintype="passive"/>
+      <node ref="R35" pin="2" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="GPIO0/ADC1_CH0/XTAL_32K_P_8" pintype="bidirectional"/>
+    </net>
+    <net code="8" name="DIN" class="Default">
+      <node ref="IC1" pin="3" pinfunction="INA1_3" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="MTDI/GPIO5/ADC1_CH5_5" pintype="bidirectional"/>
+    </net>
+    <net code="9" name="DOUT" class="Default">
+      <node ref="IC1" pin="5" pinfunction="OUTA1_5" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="MTMS/GPIO4/ADC1_CH4_4" pintype="bidirectional"/>
+    </net>
+    <net code="10" name="GND" class="Power">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="C16" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C24" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="D1" pin="2" pinfunction="G1_2" pintype="passive"/>
+      <node ref="D1" pin="5" pinfunction="G2_5" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="K_1" pintype="passive"/>
+      <node ref="IC1" pin="2" pinfunction="GNDA_1_2" pintype="passive"/>
+      <node ref="IC1" pin="8" pinfunction="GNDA_2_8" pintype="passive"/>
+      <node ref="IC2" pin="2" pinfunction="-_2" pintype="passive"/>
+      <node ref="J1" pin="A1/B12" pinfunction="GND_A1/B12" pintype="power_in"/>
+      <node ref="J1" pin="B1/A12" pinfunction="GND_B1/A12" pintype="power_in"/>
+      <node ref="J1" pin="S1" pinfunction="GND_S1" pintype="power_in"/>
+      <node ref="J1" pin="S2" pinfunction="GND_S2" pintype="power_in"/>
+      <node ref="J1" pin="S3" pinfunction="GND_S3" pintype="power_in"/>
+      <node ref="J1" pin="S4" pinfunction="GND_S4" pintype="power_in"/>
+      <node ref="Q1" pin="1" pinfunction="E1_1" pintype="passive"/>
+      <node ref="Q1" pin="4" pinfunction="E2_4" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R23" pin="2" pintype="passive"/>
+      <node ref="R26" pin="1" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="R36" pin="2" pintype="passive"/>
+      <node ref="S1" pin="1" pintype="passive"/>
+      <node ref="S1" pin="2" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="GND_1" pintype="power_in"/>
+      <node ref="U1" pin="28" pinfunction="GND_28" pintype="passive"/>
+      <node ref="U1" pin="29" pinfunction="GND_29" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="GND_2" pintype="power_in"/>
+      <node ref="U3" pin="2" pinfunction="GND_2" pintype="power_in"/>
+    </net>
+    <net code="11" name="GND_H" class="Default">
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C18" pin="2" pintype="passive"/>
+      <node ref="C20" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="D10" pin="2" pinfunction="A2_2" pintype="passive"/>
+      <node ref="D12" pin="2" pinfunction="A2_2" pintype="passive"/>
+      <node ref="IC1" pin="15" pinfunction="GNDB_2_15" pintype="passive"/>
+      <node ref="IC1" pin="9" pinfunction="GNDB_1_9" pintype="passive"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="R16" pin="2" pintype="passive"/>
+      <node ref="R20" pin="1" pintype="passive"/>
+      <node ref="U4" pin="16" pinfunction="GND__16" pintype="power_in"/>
+      <node ref="U4" pin="25" pinfunction="EP_25" pintype="power_in"/>
+      <node ref="U4" pin="9" pinfunction="GND__9" pintype="power_in"/>
+    </net>
+    <net code="12" name="Net-(C21-Pad1)" class="Default">
+      <node ref="C21" pin="1" pintype="passive"/>
+      <node ref="R31" pin="2" pintype="passive"/>
+    </net>
+    <net code="13" name="Net-(D2-A)" class="Default">
+      <node ref="D2" pin="2" pinfunction="A_2" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+    </net>
+    <net code="14" name="Net-(D3-K)" class="Default">
+      <node ref="D3" pin="1" pinfunction="K_1" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+    </net>
+    <net code="15" name="Net-(D5-K)" class="Default">
+      <node ref="D5" pin="1" pinfunction="K_1" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+    </net>
+    <net code="16" name="Net-(D7-K)" class="Default">
+      <node ref="D7" pin="1" pinfunction="K_1" pintype="passive"/>
+      <node ref="R21" pin="1" pintype="passive"/>
+    </net>
+    <net code="17" name="Net-(D8-K)" class="Default">
+      <node ref="D8" pin="1" pinfunction="K_1" pintype="passive"/>
+      <node ref="R24" pin="1" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(D9-A)" class="Default">
+      <node ref="D9" pin="2" pinfunction="A_2" pintype="passive"/>
+      <node ref="IC3" pin="2" pinfunction="-_2" pintype="passive"/>
+      <node ref="U4" pin="8" pinfunction="HN_8" pintype="input"/>
+    </net>
+    <net code="19" name="Net-(D9-K)" class="Default">
+      <node ref="D9" pin="1" pinfunction="K_1" pintype="passive"/>
+      <node ref="IC3" pin="1" pinfunction="+_1" pintype="passive"/>
+      <node ref="R29" pin="2" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(D10-A1)" class="Default">
+      <node ref="C22" pin="2" pintype="passive"/>
+      <node ref="D10" pin="1" pinfunction="A1_1" pintype="passive"/>
+      <node ref="R33" pin="2" pintype="passive"/>
+    </net>
+    <net code="21" name="Net-(D11-A1)" class="Default">
+      <node ref="D11" pin="1" pinfunction="A1_1" pintype="passive"/>
+      <node ref="IC2" pin="3" pinfunction="~_1_3" pintype="passive"/>
+      <node ref="J2" pin="2" pinfunction="2_2" pintype="passive"/>
+    </net>
+    <net code="22" name="Net-(D11-A2)" class="Default">
+      <node ref="D11" pin="2" pinfunction="A2_2" pintype="passive"/>
+      <node ref="IC2" pin="4" pinfunction="~_2_4" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="1_1" pintype="passive"/>
+    </net>
+    <net code="23" name="Net-(D12-A1)" class="Default">
+      <node ref="C23" pin="2" pintype="passive"/>
+      <node ref="D12" pin="1" pinfunction="A1_1" pintype="passive"/>
+      <node ref="R34" pin="2" pintype="passive"/>
+    </net>
+    <net code="24" name="Net-(IC1-INB1)" class="Default">
+      <node ref="IC1" pin="12" pinfunction="INB1_12" pintype="passive"/>
+      <node ref="R17" pin="1" pintype="passive"/>
+      <node ref="U4" pin="1" pinfunction="DOUT_1" pintype="output"/>
+    </net>
+    <net code="25" name="Net-(IC1-OUTB1)" class="Default">
+      <node ref="IC1" pin="14" pinfunction="OUTB1_14" pintype="passive"/>
+      <node ref="R15" pin="1" pintype="passive"/>
+      <node ref="U4" pin="2" pinfunction="DIN_2" pintype="input"/>
+    </net>
+    <net code="26" name="Net-(IC1-OUTB2)" class="Default">
+      <node ref="IC1" pin="13" pinfunction="OUTB2_13" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="U4" pin="3" pinfunction="RST_3" pintype="input"/>
+    </net>
+    <net code="27" name="Net-(IC2-+)" class="Default">
+      <node ref="IC2" pin="1" pinfunction="+_1" pintype="passive"/>
+      <node ref="Q1" pin="3" pinfunction="C2_3" pintype="passive"/>
+      <node ref="R25" pin="2" pintype="passive"/>
+    </net>
+    <net code="28" name="Net-(J1-CC1)" class="Default">
+      <node ref="J1" pin="A5" pinfunction="CC1_A5" pintype="bidirectional"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+    </net>
+    <net code="29" name="Net-(J1-CC2)" class="Default">
+      <node ref="J1" pin="B5" pinfunction="CC2_B5" pintype="bidirectional"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+    </net>
+    <net code="30" name="Net-(J4-Pad2)" class="Default">
+      <node ref="J4" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="R35" pin="1" pintype="passive"/>
+      <node ref="R36" pin="1" pintype="passive"/>
+    </net>
+    <net code="31" name="Net-(Q1A-B1)" class="Default">
+      <node ref="Q1" pin="2" pinfunction="B1_2" pintype="input"/>
+      <node ref="R27" pin="2" pintype="passive"/>
+    </net>
+    <net code="32" name="Net-(Q1A-C1)" class="Default">
+      <node ref="Q1" pin="5" pinfunction="B2_5" pintype="input"/>
+      <node ref="Q1" pin="6" pinfunction="C1_6" pintype="passive"/>
+      <node ref="R28" pin="1" pintype="passive"/>
+    </net>
+    <net code="33" name="Net-(U1-EN/CHIP_PU)" class="Default">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="EN/CHIP_PU_3" pintype="input"/>
+    </net>
+    <net code="34" name="Net-(U1-GPIO8)" class="Default">
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="U1" pin="10" pinfunction="GPIO8_10" pintype="bidirectional"/>
+    </net>
+    <net code="35" name="Net-(U1-GPIO9)" class="Default">
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="S1" pin="3" pintype="passive"/>
+      <node ref="U1" pin="15" pinfunction="GPIO9_15" pintype="bidirectional"/>
+    </net>
+    <net code="36" name="Net-(U1-GPIO11)" class="Default">
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="U1" pin="12" pinfunction="GPIO11_12" pintype="bidirectional"/>
+    </net>
+    <net code="37" name="Net-(U2-EN)" class="Default">
+      <node ref="R14" pin="2" pintype="passive"/>
+      <node ref="U2" pin="4" pinfunction="EN_4" pintype="input"/>
+    </net>
+    <net code="38" name="Net-(U2-FB)" class="Default">
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="R22" pin="2" pintype="passive"/>
+      <node ref="R23" pin="1" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="FB_3" pintype="input"/>
+    </net>
+    <net code="39" name="Net-(U4-AIO)" class="Default">
+      <node ref="R32" pin="2" pintype="passive"/>
+      <node ref="R33" pin="1" pintype="passive"/>
+      <node ref="U4" pin="11" pinfunction="AIO_11" pintype="bidirectional"/>
+    </net>
+    <net code="40" name="Net-(U4-BIO)" class="Default">
+      <node ref="R30" pin="2" pintype="passive"/>
+      <node ref="R32" pin="1" pintype="passive"/>
+      <node ref="R34" pin="1" pintype="passive"/>
+      <node ref="U4" pin="7" pinfunction="BIO_7" pintype="bidirectional"/>
+    </net>
+    <net code="41" name="Net-(U4-CAPN)" class="Default">
+      <node ref="C17" pin="2" pintype="passive"/>
+      <node ref="U4" pin="4" pinfunction="CAPN_4" pintype="passive"/>
+    </net>
+    <net code="42" name="Net-(U4-CAPP)" class="Default">
+      <node ref="C19" pin="2" pintype="passive"/>
+      <node ref="R31" pin="1" pintype="passive"/>
+      <node ref="U4" pin="15" pinfunction="CAPP_15" pintype="passive"/>
+    </net>
+    <net code="43" name="Net-(U4-EN)" class="Default">
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="U4" pin="18" pinfunction="VRAW_18" pintype="output"/>
+      <node ref="U4" pin="19" pinfunction="EN_19" pintype="input"/>
+    </net>
+    <net code="44" name="Net-(U4-HNA)" class="Default">
+      <node ref="C17" pin="1" pintype="passive"/>
+      <node ref="U4" pin="5" pinfunction="HNA_5" pintype="passive"/>
+    </net>
+    <net code="45" name="Net-(U4-HP)" class="Default">
+      <node ref="R29" pin="1" pintype="passive"/>
+      <node ref="U4" pin="10" pinfunction="HP_10" pintype="input"/>
+    </net>
+    <net code="46" name="Net-(U4-HPA)" class="Default">
+      <node ref="C19" pin="1" pintype="passive"/>
+      <node ref="C21" pin="2" pintype="passive"/>
+      <node ref="U4" pin="14" pinfunction="HPA_14" pintype="passive"/>
+    </net>
+    <net code="47" name="Net-(U4-SRA)" class="Default">
+      <node ref="R13" pin="1" pintype="passive"/>
+      <node ref="U4" pin="23" pinfunction="SRA_23" pintype="input"/>
+    </net>
+    <net code="48" name="Net-(U4-TERM)" class="Default">
+      <node ref="R30" pin="1" pintype="passive"/>
+      <node ref="U4" pin="12" pinfunction="TERM_12" pintype="passive"/>
+    </net>
+    <net code="49" name="Net-(U4-TVL)" class="Default">
+      <node ref="R18" pin="1" pintype="passive"/>
+      <node ref="R19" pin="2" pintype="passive"/>
+      <node ref="U4" pin="21" pinfunction="TVL_21" pintype="passive"/>
+    </net>
+    <net code="50" name="Net-(U4-TVT)" class="Default">
+      <node ref="R19" pin="1" pintype="passive"/>
+      <node ref="R20" pin="2" pintype="passive"/>
+      <node ref="U4" pin="22" pinfunction="TVT_22" pintype="passive"/>
+    </net>
+    <net code="51" name="Net-(U4-~{HPEN})" class="Default">
+      <node ref="R16" pin="1" pintype="passive"/>
+      <node ref="U4" pin="20" pinfunction="~{HPEN}_20" pintype="input"/>
+    </net>
+    <net code="52" name="RST" class="Default">
+      <node ref="IC1" pin="4" pinfunction="INA2_4" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="U1" pin="27" pinfunction="GPIO2/ADC1_CH2_27" pintype="bidirectional"/>
+    </net>
+    <net code="53" name="RXD_0" class="Default">
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="R21" pin="2" pintype="passive"/>
+      <node ref="R25" pin="1" pintype="passive"/>
+      <node ref="R26" pin="2" pintype="passive"/>
+      <node ref="U1" pin="24" pinfunction="U0RXD/GPIO17_24" pintype="bidirectional"/>
+    </net>
+    <net code="54" name="TXD_0" class="Default">
+      <node ref="R24" pin="2" pintype="passive"/>
+      <node ref="R27" pin="1" pintype="passive"/>
+      <node ref="U1" pin="25" pinfunction="U0TXD/GPIO16_25" pintype="bidirectional"/>
+    </net>
+    <net code="55" name="USB+" class="Default">
+      <node ref="D1" pin="3" pinfunction="C2_3" pintype="passive"/>
+      <node ref="J1" pin="A6" pinfunction="DP1_A6" pintype="bidirectional"/>
+      <node ref="J1" pin="B6" pinfunction="DP2_B6" pintype="bidirectional"/>
+      <node ref="U1" pin="14" pinfunction="GPIO13/USB_D+_14" pintype="bidirectional"/>
+    </net>
+    <net code="56" name="USB-" class="Default">
+      <node ref="D1" pin="1" pinfunction="C1_1" pintype="passive"/>
+      <node ref="J1" pin="A7" pinfunction="DN1_A7" pintype="bidirectional"/>
+      <node ref="J1" pin="B7" pinfunction="DN2_B7" pintype="bidirectional"/>
+      <node ref="U1" pin="13" pinfunction="GPIO12/USB_D-_13" pintype="bidirectional"/>
+    </net>
+    <net code="57" name="VBUS" class="Power">
+      <node ref="D1" pin="6" pinfunction="C4_6" pintype="passive"/>
+      <node ref="D4" pin="2" pinfunction="A_2" pintype="passive"/>
+      <node ref="J1" pin="A4/B9" pinfunction="VBUS_A4/B9" pintype="power_in"/>
+      <node ref="J1" pin="B4/A9" pinfunction="VBUS_B4/A9" pintype="power_in"/>
+    </net>
+    <net code="58" name="VCC (5V)" class="VCC,Power">
+      <node ref="C18" pin="1" pintype="passive"/>
+      <node ref="C20" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="IC1" pin="10" pinfunction="ENB_10" pintype="passive"/>
+      <node ref="IC1" pin="16" pinfunction="VDDB_16" pintype="passive"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="R15" pin="2" pintype="passive"/>
+      <node ref="R17" pin="2" pintype="passive"/>
+      <node ref="R18" pin="2" pintype="passive"/>
+      <node ref="U4" pin="17" pinfunction="VCC_17" pintype="power_in"/>
+    </net>
+    <net code="59" name="unconnected-(D1-C3-Pad4)" class="Default">
+      <node ref="D1" pin="4" pinfunction="C3_4" pintype="passive+no_connect"/>
+    </net>
+    <net code="60" name="unconnected-(IC1-INB2-Pad11)" class="Default">
+      <node ref="IC1" pin="11" pinfunction="INB2_11" pintype="passive+no_connect"/>
+    </net>
+    <net code="61" name="unconnected-(IC1-OUTA2-Pad6)" class="Default">
+      <node ref="IC1" pin="6" pinfunction="OUTA2_6" pintype="passive+no_connect"/>
+    </net>
+    <net code="62" name="unconnected-(J1-SBU1-PadA8)" class="Default">
+      <node ref="J1" pin="A8" pinfunction="SBU1_A8" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="63" name="unconnected-(J1-SBU2-PadB8)" class="Default">
+      <node ref="J1" pin="B8" pinfunction="SBU2_B8" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="64" name="unconnected-(S1-Pad4)" class="Default">
+      <node ref="S1" pin="4" pintype="passive+no_connect"/>
+    </net>
+    <net code="65" name="unconnected-(U1-GPIO1/ADC1_CH1/XTAL_32K_N-Pad9)" class="Default">
+      <node ref="U1" pin="9" pinfunction="GPIO1/ADC1_CH1/XTAL_32K_N_9" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="66" name="unconnected-(U1-GPIO3/ADC1_CH3-Pad26)" class="Default">
+      <node ref="U1" pin="26" pinfunction="GPIO3/ADC1_CH3_26" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="67" name="unconnected-(U1-GPIO10-Pad11)" class="Default">
+      <node ref="U1" pin="11" pinfunction="GPIO10_11" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="68" name="unconnected-(U1-GPIO15-Pad23)" class="Default">
+      <node ref="U1" pin="23" pinfunction="GPIO15_23" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="69" name="unconnected-(U1-GPIO18-Pad16)" class="Default">
+      <node ref="U1" pin="16" pinfunction="GPIO18_16" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="70" name="unconnected-(U1-GPIO19-Pad17)" class="Default">
+      <node ref="U1" pin="17" pinfunction="GPIO19_17" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="71" name="unconnected-(U1-GPIO20-Pad18)" class="Default">
+      <node ref="U1" pin="18" pinfunction="GPIO20_18" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="72" name="unconnected-(U1-GPIO21-Pad19)" class="Default">
+      <node ref="U1" pin="19" pinfunction="GPIO21_19" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="73" name="unconnected-(U1-GPIO22-Pad20)" class="Default">
+      <node ref="U1" pin="20" pinfunction="GPIO22_20" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="74" name="unconnected-(U1-GPIO23-Pad21)" class="Default">
+      <node ref="U1" pin="21" pinfunction="GPIO23_21" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="75" name="unconnected-(U1-MTCK/GPIO6/ADC1_CH6-Pad6)" class="Default">
+      <node ref="U1" pin="6" pinfunction="MTCK/GPIO6/ADC1_CH6_6" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="76" name="unconnected-(U1-MTDO/GPIO7-Pad7)" class="Default">
+      <node ref="U1" pin="7" pinfunction="MTDO/GPIO7_7" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="77" name="unconnected-(U1-NC-Pad22)" class="Default">
+      <node ref="U1" pin="22" pinfunction="NC_22" pintype="no_connect"/>
+    </net>
+    <net code="78" name="unconnected-(U4-NC-Pad6)" class="Default">
+      <node ref="U4" pin="6" pinfunction="NC_6" pintype="no_connect"/>
+    </net>
+    <net code="79" name="unconnected-(U4-NC-Pad13)" class="Default">
+      <node ref="U4" pin="13" pinfunction="NC_13" pintype="no_connect"/>
+    </net>
+    <net code="80" name="unconnected-(U4-NC-Pad24)" class="Default">
+      <node ref="U4" pin="24" pinfunction="NC_24" pintype="no_connect"/>
+    </net>
+  </nets>
+</export>

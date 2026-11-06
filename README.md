@@ -1,5 +1,27 @@
+# espHeat
+Monitoring HomeBus device and Modbus, embedded sofware on dedicated PCB using ESP32C6 µC
 
-# Step 1: Set Up the Separate Folder and Virtual Environment
+# Description
+
+This repository contain all the development for an electronic device that will monitor a water tank (such as rain collect tank) using zigbee to transmit data to a coordinator. It contains: 
+ * A PCB design [PCB design](PCB/README.md)
+ * An enclosure design to be printed in 3D [Enclosure design](3Dprint/README.md)
+ * Source code of the embedded software on the board (in an ESP32C6 µC)
+
+# Configuration
+
+Provide a `secrets.yaml` file in the root directory with:
+
+```yaml
+wifi_ssid: "SSID"
+wifi_password: "password"
+
+thread_tlv: "0e08xxxxxxxxxxx....."
+```
+
+# Setting up a virtual environment for EspHome devices deveolpment
+
+## Step 1: Set Up the Separate Folder and Virtual Environment
 
 
 Create a dedicated directory for your project and initialize your virtual environment inside it.
@@ -18,7 +40,7 @@ source venv/bin/activate
 # venv\Scripts\activate.bat
 ```
 
-# Step 2: Install ESPHome in the Virtual Environment
+## Step 2: Install ESPHome in the Virtual Environment
 
 With your virtual environment activated, install ESPHome via pip. This ensures your compilation and validation tools run locally within this isolated environment.
 
@@ -27,7 +49,7 @@ pip install wheel
 pip install esphome
 ```
 
-# Step 3: Structure Your Component Folder
+## Step 3: Structure Your Component Folder
 
 ESPHome requires a specific directory structure to map external components correctly. Inside your workspace, create a folder for your configuration and a subfolder for your custom code:
 ```text
@@ -42,7 +64,7 @@ my-esphome-dev/
         └── my_custom_sensor.cpp# C++ Source file
 ```
 
-# Step 4: Link the Separate Folder in Your YAML
+## Step 4: Link the Separate Folder in Your YAML
 
 To tell ESPHome to look inside your separate development folder instead of its core library, use the external_components component in your test_node.yaml file.
 You can use a relative path pointing directly to your separate directory:
@@ -66,7 +88,7 @@ sensor:
     name: "My Custom Live Sensor"
 ```
 
-# Step 5: Compile and Run
+## Step 5: Compile and Run
 
 Because ESPHome is installed inside your virtual environment, you can run normal CLI commands to validate, compile, and upload your code while editing your component files in real-time.
 ```bash
@@ -80,8 +102,9 @@ esphome compile test_node.yaml
 esphome run test_node.yaml
 ```
 
-# Step 6: Quit virtual environment
+## Step 6: Quit virtual environment
 
 ```bash
 deactivate
 ```
+

@@ -27,7 +27,18 @@ void EspHeat::dump_config()
 
 void EspHeat::control(const climate::ClimateCall &call)
 {
-
+    /*
+    // Gérer les changements demandés par l'utilisateur (ex: changer la température cible)
+    if (call.get_mode().has_value()) {
+        this->mode = *call.get_mode();
+    }
+    if (call.get_target_temperature().has_value()) {
+        this->target_temperature = *call.get_target_temperature();
+    }
+    
+    // Indiquer à Home Assistant / ESPHome que l'état a changé
+    this->publish_state();
+    */
 }
 
 climate::ClimateTraits EspHeat::traits()

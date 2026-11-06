@@ -36,7 +36,7 @@ ota:
 external_components:
   - source:
       type: local
-      path: components
+      path: heat_components
 
 
 climate:
