@@ -1,0 +1,62 @@
+# Board: Espressif ESP32-C6-DevKitM-1 (Espressif)
+# Definition: definitions/boards/esp32-c6-devkitm-1/manifest.yaml
+
+esphome:
+  name: test-espheat
+  friendly_name: test-EspHeat
+
+esp32:
+  variant: esp32c6
+  flash_size: 8MB
+  framework:
+    type: esp-idf
+
+network:
+  enable_ipv6: true
+
+openthread:
+  device_type: FTD
+  tlv: !secret thread_tlv
+
+logger:
+  level: VERY_VERBOSE
+
+api:
+  encryption:
+    key: "DCOhcPTBdFuxx9uwPYMjZOgv05nTO5WhS5pR8IkOTvQ="
+
+ota:
+  - platform: esphome
+
+
+#sensor:
+#  - platform: uptime
+#    name: "Uptime"
+    
+external_components:
+  - source:
+      type: local
+      path: components
+
+
+climate:
+  - platform: espheat
+    id: daikin0
+    name: "HeatPump"
+
+    outdoor_intake_temperature:
+      name: "Outdoor Intake Temperature"
+      filters:
+        - throttle_average: 60s
+    coolant_temperature:
+      name: "Coolant Temperature"
+      filters:
+        - throttle_average: 60s
+    indoor_temperature:
+      name: "Indoor Temperature"
+      filters:
+        - throttle_average: 60s
+      
+
+   
+

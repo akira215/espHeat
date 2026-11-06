@@ -1,0 +1,7 @@
+venv/
+.esphome/
+.device-builder*
+.receiver_peers.json
+.offloader_pairings.json
+.DS_Store
+secrets.yaml
